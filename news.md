@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: News
+permalink: /news/
 ---
 
-This webpage is for Metal Forming Laboratory in Changwon National University
+This page is to keep vistors updated.
 
 ### More Information
 
