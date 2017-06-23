@@ -18,4 +18,4 @@ permalink: /news/
 ## Openings ##
 
 Both undergraduate internships and funded graduate studentships are available.
-If you are interested in, please [contact us](yjeong@changwon.ac.kr).
+If you are interested in, please [contact us](mailto:yjeong@changwon.ac.kr).
