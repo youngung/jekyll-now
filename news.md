@@ -5,16 +5,17 @@ permalink: /news/
 ---
 
 
-## 학부생 인턴 및 대학원생 모집 ##
+## 금속 성형 연구실 구성원 모집 ##
 
-금속 성형 연구실에서는 학부생 인턴과 대학원생을 모집합니다.
+창원대학교 금속성형 연구실에서는 다양한 포지션의 구성원을 모집합니다. 학부생 인턴 및 대학원생을 모집합니다.
 
 인턴의 경우 근무시간은 조정 가능합니다.
 
-연구분야는 컴퓨터 시뮬레이션 및 재료 역학 실험을 통한 재료 성형성
-과 관련한 연구입니다. 관심있는 분들의 참여를 바랍니다.
+컴퓨터 시뮬레이션 및 재료역학 실험을 활용하여 금속 재료의 기계적 특성을
+파악하하고 최종 성형성을 높이기위한 방법을 연구/개발합니다. 관심있는 분들의 참여를 바랍니다.
 
 
-Metal forming lab hires undergraduate interns, graduate students and postdocs.
+## Openings ##
 
-If you are interested in, please [contact us](yjeong@changwon.ac.kr)
+Both undergraduate internships and funded graduate studentships are available.
+If you are interested in, please [contact us](yjeong@changwon.ac.kr).
