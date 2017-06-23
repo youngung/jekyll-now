@@ -4,8 +4,10 @@ title: Members
 permalink: /members/
 ---
 
-정영웅
+**정영웅**
 창원대학교 신소재공학부 조교수
+
+CV는 [여기서](/images/cv.pdf) 찾으세요.
 
 
 **Youngung Jeong**, PhD
