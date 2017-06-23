@@ -4,9 +4,9 @@ title: 금속성형 연구실 홈페이지입니다.
 permalink: /about/
 ---
 
-### Welcome to Metal Forming Laboratory at [CWNU](http://www.changwon.ac.kr)
+## Welcome to Metal Forming Laboratory at [CWNU](http://www.changwon.ac.kr)
 
-### How to contact us
+### Contacts
 [Email](mailto:yjeong@changwon.ac.kr): yjeong [at] changwon.ac.kr
 
 Office:+82-55-213-3694

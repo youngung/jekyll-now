@@ -10,7 +10,7 @@ permalink: /members/
 
 <img src="/images/yj_profile.jpg" width="120">
 
-I'm an assistant professor at [Changwon National University](www.changwon.ac.kr).
+I'm an assistant professor at [Changwon National University](http://changwon.ac.kr).
 I am interested in mechanical behaviors of metals.
 I look at crystallographic textures of polycrystalline metals using X-ray diffractometer when I need to consider the mechanical anisotropy.
 I also use X-ray diffractomers for residual stress measurement.
