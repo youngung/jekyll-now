@@ -5,3 +5,5 @@ permalink: /projects/
 ---
 
 ## Projects
+
+Current projects:
