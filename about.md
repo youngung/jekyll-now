@@ -7,7 +7,6 @@ permalink: /about/
 This webpage is for Metal Forming Laboratory in [Changwon National University](http://www.changwon.ac.kr)
 창원대학교 금속성형 연구실입니다.
 
-
 ### More Information
 
 ### Contact us
