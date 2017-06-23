@@ -1,18 +1,21 @@
 ---
 layout: page
-title: About
+title: 금속성형 연구실 홈페이지입니다.
 permalink: /about/
 ---
 
-This webpage is for Metal Forming Laboratory in [Changwon National University](http://www.changwon.ac.kr)
-창원대학교 금속성형 연구실입니다.
+### Welcome to Metal Forming Laboratory at [CWNU](http://www.changwon.ac.kr)
 
+### How to contact us
+[Email](mailto:yjeong@changwon.ac.kr): yjeong [at] changwon.ac.kr
 
-## Contact us
-[email](mailto:yjeong@changwon.ac.kr)
-연구실: 055-213-3694
-학과사무실: 055-213-3690
+Office:+82-55-213-3694
 
-## Location
-주소: 경남 창원시 의창구 20 창원대학로 신소재공학부 (연구실: 52-208)
+Department: +82-55-213-3690
+
+Fax: +82-55-261-7017
+
+### Location
 20 Changwondeahak-ro Changwon, Gyeongnam, Republic of Korea
+
+주소: 경남 창원시 의창구 20 창원대학로 신소재공학부 (연구실: 52-208)

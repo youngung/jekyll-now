@@ -1,14 +1,15 @@
 ---
 layout: page
-title: Research topics
+title: Research Interets
 permalink: /research/
 ---
 ## Crystal plasticity
 
 Visco-Plastic Self-Consistent crystal plasticity model (VPSC) is one of the most successfuly crystal plasticity model that is widely used in the community of material science and engineering where people seek for a way to link microscopic mechanical properties to their macroscopic counterparts.
+This model is extensively studied in MFL.
 
 
-## Phenomenological constitutive model for anisotropic polycrystalline metals
+## Phenomenological constitutive model
 
 Phenomenological approach using anisotropic yield functions and simple hardening rule has been widely used both in academia and industry.
 Development of accurate constitutive models for efficient yet accurate model is often required.

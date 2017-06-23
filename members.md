@@ -10,10 +10,8 @@ permalink: /members/
 
 <img src="/images/yj_profile.jpg" width="120">
 
-Assistant professor at [Changwon National University](www.changwon.ac.kr).
-
-
+I'm an Assistant professor at [Changwon National University](www.changwon.ac.kr).
 I am interested in mechanical behaviors of metals.
-Usually, I look at crystallographic textures using X-ray
-
-My CV is available [here](/images/cv.pdf)
+I look at crystallographic textures using X-ray diffractometer, which I also use for residual stress measurement.
+I like to code using [Python](www.python.org), and [Emacs](https://www.gnu.org/software/emacs/) is my favorite editor.
+My CV is available [here](/images/cv.pdf).
