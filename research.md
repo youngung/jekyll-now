@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Interets
+title: Research Interests
 permalink: /research/
 ---
 ## Crystal plasticity
@@ -18,7 +18,8 @@ Development of accurate constitutive models for efficient yet accurate model is 
 ## Finite-Element simulations for metal forming operations
 
 Practice of Finite Element simulation on forming operations has become a customary process prior to actual die-making process in order to reduce manufacturing cost and time.
-
+We develop material models and offer both numerical and experimental methods to characterize them for forming operations.
+The model is coded to User material subroutine (UMAT) for finite element simulations using [ABAQUS](https://www.3ds.com/products-services/simulia/products/abaqus/).
 
 ## Residual stress measurement on the basis of X-ray diffraction
 
