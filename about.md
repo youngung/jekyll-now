@@ -18,4 +18,4 @@ Fax: +82-55-261-7017
 ### Location
 20 Changwondeahak-ro Changwon, Gyeongnam, Republic of Korea
 
-주소: 경남 창원시 의창구 20 창원대학로 신소재공학부 (연구실: 52-208)
+주소: 경남 창원시 의창구 20 창원대학로 신소재공학부 (연구실: #52-208)

@@ -19,13 +19,11 @@ We are currently capable of calculating the theoretical forming limits using bot
 Predictions of forming limit is very beneficial as actual experimental measurement is very costly and may consume a large volume of testing specimens.
 Sometimes, it is even impossible to experimentally determine the forming limits due to a certain geometry of given metal sheets. For example, a very thin ferritic stainless steel cannot be easilly tested using Erichsen tester!
 
-
-
 ## Finite-Element simulations for metal forming operations
 
 Practice of Finite Element simulation on forming operations has become a customary process prior to actual die-making process in order to reduce manufacturing cost and time.
 We develop material models and offer both numerical and experimental methods to characterize them for forming operations.
-The model is coded to User material subroutine (UMAT) for finite element simulations using [ABAQUS](https://www.3ds.com/products-services/simulia/products/abaqus/).
+The model is coded as a User MATerial subroutine (UMAT) for finite element simulations using [ABAQUS](https://www.3ds.com/products-services/simulia/products/abaqus/).
 
 ## Residual stress measurement on the basis of X-ray diffraction
 
