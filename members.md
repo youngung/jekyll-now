@@ -9,6 +9,8 @@ permalink: /members/
 
 - **Youngung Jeong** (정영웅), PhD
 
+Assistant professor, Materials Science and Engineering, Changwon National Univeristy
+
 조교수, 창원대학교 신소재공학부
 
 <!-- I'm an assistant professor at [Changwon National University](http://changwon.ac.kr) <img src='/images/cwnu.png' width='80' >. -->
