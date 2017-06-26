@@ -71,7 +71,7 @@ Dec. 2016 - Feb. 2017
 
 - **List of selected publications**
 
-1. **Y. Jeong**, F. Barlat, C. Tome, W. Wen [_A comparative study between micro- and macro-mechanical constitutive models developed for complex loading scenarios_]({http://dx.doi.org/10.1016/j.ijplas.2016.07.015), International Journal of Plasticity Vol 93 p212-228, 2017
+1. **Y. Jeong**, F. Barlat, C. Tome, W. Wen [_A comparative study between micro- and macro-mechanical constitutive models developed for complex loading scenarios_](http://dx.doi.org/10.1016/j.ijplas.2016.07.015), International Journal of Plasticity Vol 93 p212-228, 2017
 
 2. **Y. Jeong**, T. Gnaeupel-Herold, M. Iadicola, A. Creuziger [_Uncertainty in flow stress measurements using X-ray diffraction for sheet metals subjected to large plastic deformations_](https://doi.org/10.1107/S1600576716013662), Journal of Applied Crystallography Vol 49 p1991-2004, 2016
 
