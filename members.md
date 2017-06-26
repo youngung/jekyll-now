@@ -57,7 +57,7 @@ Mar. 2014 - Feb. 2016
 
 #### Research Scientist
 
-[Clemson](http://www.clemson.edu), [Automotive Engineering](http://www.clemson.edu/cecas/departments/automotive-engineering/)
+[Clemson Univ.](http://www.clemson.edu), [Automotive Engineering](http://www.clemson.edu/cecas/departments/automotive-engineering/)
 
 Mar. 2016 - Nov. 2016
 
