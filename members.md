@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Members
 permalink: /members/
 ---
 
--------------
 ### Principal Investigator
 
-- **Youngung Jeong**, PhD
+- **Youngung Jeong** (정영웅), PhD
 
 <img src="/images/yj_profile.jpg" width="120">
 
@@ -20,6 +18,28 @@ While I was an undergraduate, I learned how to write small computer programs usi
 One of such is [texture](https://github.com/youngung/texture), which is a collection of various python modules particuarly useeful for plotting pole figures from discrete set of orientations.
 
 [Emacs](https://www.gnu.org/software/emacs/) <img src='/images/emacs.png' width='30'> is my favorite editor and I write equations using [LaTeX](https://www.latex-project.org). <img src='/images/latex-project-logo.svg' width='120'>
+
+-------------
+- **Eduation**
+
+#### PhD
+
+POSTECH, Graduate Institute of Ferrous Technology (advisor: Frederic Barlat)
+
+Pohang, Republic of Korea, Mar. 2010 - Feb. 2014
+
+#### MS
+
+POSTECH, Graduate Institute of Ferrous Technology (advisor: Frederic Barlat)
+
+Pohang, Republic of Korea, Mar. 2008 - Feb. 2010
+
+#### BS
+
+Hanyang University, Materials Science and Engineering
+
+Seoul, Republic of Korea, Mar. 2001 - Feb. 2008
+
 
 -------------
 - **List of selected publications**
