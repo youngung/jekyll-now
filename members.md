@@ -24,19 +24,19 @@ One of such is [texture](https://github.com/youngung/texture), which is a collec
 
 #### PhD
 
-POSTECH, Graduate Institute of Ferrous Technology (advisor: Frederic Barlat)
+[POSTECH](http://www.postech.ac.kr), [Graduate Institute of Ferrous Technology](http://gift.postech.ac.kr) (advisor: Frederic Barlat)
 
 Pohang, Republic of Korea, Mar. 2010 - Feb. 2014
 
 #### MS
 
-POSTECH, Graduate Institute of Ferrous Technology (advisor: Frederic Barlat)
+[POSTECH](http://www.postech.ac.kr), [Graduate Institute of Ferrous Technology](http://gift.postech.ac.kr) (advisor: Frederic Barlat)
 
 Pohang, Republic of Korea, Mar. 2008 - Feb. 2010
 
 #### BS
 
-Hanyang University, Materials Science and Engineering
+[Hanyang University](http://hanyang.ac.kr), Materials Science and Engineering
 
 Seoul, Republic of Korea, Mar. 2001 - Feb. 2008
 

@@ -6,7 +6,7 @@ permalink: /programs/
 Most of my computer programs I developed and use for research are available in an open-source domain [GitHub](http://github.com/youngung).
 
 ------------
-# DiffStress
+### DiffStress
 
 DiffStress is a Python-based diffraction analysis tool that
 analyzes the *tensorial* stress state present on a polycrystal sample.
@@ -39,7 +39,7 @@ perturb the lattice strains in order to quantify the uncertainty in the
 obtained stress by conducting Monte Carlo virtual experiments.
 
 
-## Application
+#### Application
 
 - Stress analysis from d-spacings
 
@@ -118,7 +118,7 @@ a statistically meaningful uncertainty, which is very difficult to obtain
 in real experiments.
 
 
-### This software has been used for the following publications
+#### This software has been used for the following publications
 ==========================================================
 1. **Y Jeong**, T Gnaeupel-Herold, M Iadicola, A Creuziger, [_Uncertainty in flow stress measurements using X-ray diffraction for sheet metals subjected to large plastic deformations_](https://doi.org/10.1107/S1600576716013662) Journal of Applied Crystallography 49 (2016)
 
@@ -128,7 +128,7 @@ in real experiments.
 
 
 --------------------
-## VPSC-FLD-YLD
+### VPSC-FLD-YLD
 
 - This package can be used to conduct the below tasks:
 
@@ -142,7 +142,7 @@ in real experiments.
    - Conduct virtual mechanical tests under complex loading path scenarios to obtain
 	 parameters for macro-mechanical constitutive description developed for springback
 
-## Overview
+#### Overview
 VPSC-FLD-YLD is a numerical tool developed to predict forming limits and to
 characterize anisotropic yield surface of polycrystalline metal sheets
 on the basis of Visco-Plastic Self-Consistent crystal plasticity. This
@@ -150,7 +150,7 @@ repository is to track the development of VPSC-FLD-YLD code and is a
 collection of related Python scripts and a modified version of VPSC7b/VPSC7c
 code written in Fortran.
 
-## DEPENDENTS
+#### DEPENDENTS
 #This package is dependent on following packages
 1. texture (pole figure plotting software purely written in python with NumPy, Matplotlib dependency)
 2. mpl (personal library that decorates and assist data visualization features in VPSC-FLD-YLD)
@@ -161,17 +161,7 @@ code written in Fortran.
 7. LaTeX (optional) - the manual is written in LaTeX
 8. gnuplot (optional) to allow text-based real-time FLD plots
 
-## Compile / install
-If you have all dependents installed on your system, 'make' command will
-create object files and link them to an executable 'vpsc'
-   $> make
-For Python scripts, run
-   $> python setup.py build
-   $> python setup.py install
-Or, simply
-   $> bash set.sh
-
-## FEATURES
+#### FEATURES
 1. FLD calculation using the micro-mechanical descriptions as employed in
  the original VPSC7b(7d) code (Ref. [3,7]).
  An FLD prediction example can be found in the below figures:
@@ -196,7 +186,7 @@ for dislocation-density based hardening (Ref. [1,2,4])
 
 
 ------------------------------------------------------------------------
-## REFERENCES (This software has been used in below)
+#### REFERENCES (This software has been used in below)
 1. **Y. Jeong**, F. Barlat, C. Tome, W. Wen [_A comparative study between micro- and macro-mechanical constitutive models developed for complex loading scenarios_]({http://dx.doi.org/10.1016/j.ijplas.2016.07.015), International Journal of Plasticity Vol. 93 p212-228, 2017
 
 2.  F. Barlat, **Y. Jeong**, J. Ha, C. Tome, M-G. Lee, W. Wen [_Advances in Constitutive Modelling of Plasticity for forming Applications_](https://dx.doi.org/10.4028/www.scientific.net/KEM.725.3), Key Engineering Materials Vol. 725 p3-14 2017
@@ -212,4 +202,6 @@ for dislocation-density based hardening (Ref. [1,2,4])
 7.  **Y. Jeong**, M-S. Pham, M. Iadicola, A. Creuziger, [_Forming limit diagram predictions using a self-consistent crystal plasticity model: a parametric study_](https://doi.org/10.4028/www.scientific.net/KEM.651-653.193), Key Engineering Materials Vol. 651 p193-198, 2015
 
 
-## Texture
+### Texture
+
+Texture is a collection of various Python modules that I used for studying crystallographic texture of polycrystalline metals.
