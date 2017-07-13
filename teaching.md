@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Teaching (담당 교과과목)
 permalink: /teaching/
 ---
 

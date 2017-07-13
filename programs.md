@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Computer programs
 permalink: /programs/
 ---
 

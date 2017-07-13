@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Members
 permalink: /members/
 ---
 
@@ -67,6 +68,11 @@ Mar. 2016 - Nov. 2016
 
 Dec. 2016 - Feb. 2017
 
+#### Assistant professor
+
+[Changwon National University](http://changwon.ac.kr), [MSE](http://portal.changwon.ac.kr/home/mse)
+
+Mar. 2017 - Present
 -------------
 
 - **List of selected publications**
