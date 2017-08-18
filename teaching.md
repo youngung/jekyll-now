@@ -7,23 +7,20 @@ permalink: /teaching/
 ### 1학기
 
 
-#### 메카트로닉스 재료개론
+#### 메카트로닉스 재료개론 (Introduction to Materials Science and Engineering I)
 
 
-#### 금속 유동 해석
+#### 금속 유동 해석 (Plastic flow analysis)
 
 
 ----------------------------
 
 ### 2학기
 
-#### 소성 가공
+#### 소성 가공 (Metal Forming)
 
 
-#### 메카트로닉스 재료 개론
+#### 기계재료 개론 (Introduction to Materials Science and Engineering II)
 
 
-#### 기계재료 개론
-
-
-#### 금속 유동 해석 특론 (대학원)
+#### 금속 유동 해석 특론 (Metal Plasticitity)
