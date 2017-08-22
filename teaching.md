@@ -23,4 +23,4 @@ permalink: /teaching/
 #### 기계재료 개론 (Introduction to Materials Science and Engineering II)
 
 
-#### 금속 유동 해석 특론 (Metal Plasticitity)
+#### 금속 유동 해석 특론 (Metal Plasticity)
