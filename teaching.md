@@ -20,7 +20,7 @@ permalink: /teaching/
 #### 소성 가공 (Metal Forming)
 
 
-#### 기계재료 개론 (Introduction to Materials Science and Engineering II)
+#### [기계재료 개론 (Introduction to Materials Science and Engineering II)]({% link mseii.md %})
 
 
-#### 금속 유동 해석 특론 (Metal Plasticity)
+#### [금속 유동 해석 특론 (Metal Plasticity)]({% link metalplasticity.md %})

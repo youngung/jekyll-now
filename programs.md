@@ -47,7 +47,7 @@ obtained stress by conducting Monte Carlo virtual experiments.
 DiffStress can analyze the d-spacings collected in the form of Proto X-ray system.
 One can obtain a fitting result in various orientation and nicely illustrate the
 goodness of fit. Below is an example of an interstitial-free steel, that shows the
-undulation in d-spacing vs. sin2psi curve. With using experimental DECs obtained
+undulation in d-spacing vs. sin2psi curve. With using [experimental DECs]({% link dec.md %}) obtained
 at various orientation, one can obtain stress by least-square method.
 The intensity can be used to 'estimate' the size (or height) of the diffraction peaks.
 
@@ -67,7 +67,6 @@ residual stress measurement).
 
 
 ![image of IF stee diffraction](/images/illu_1.png)
-
 
 
 The stress measurement using the internal elastic strain (d-spacing)
