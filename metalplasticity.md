@@ -9,7 +9,7 @@ Download lecture notes from the below links:
 1. Orientation and Introduction: [lecture notes]({% link /lecturenotes/MetalPlasticity/01_Intro_MP.pdf %})
 
 --------------------------
-
+Further readings and useful pages
 
 - [Tensors]({% link tensors.md %})
 

@@ -17,7 +17,7 @@ permalink: /teaching/
 
 ### 2학기
 
-#### 소성 가공 (Metal Forming)
+#### [소성 가공 (Metal Forming)]({% link metalforming.md %})
 
 
 #### [기계재료 개론 (Introduction to Materials Science and Engineering II)]({% link mseii.md %})
