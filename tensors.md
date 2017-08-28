@@ -3,14 +3,16 @@ layout: page
 title: Tensors
 ---
 
-Tensors transform like tensors.
-
-<!-- <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script> -->
-
-
 <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
+
+
+텐서의 정의를 가장 잘 표현한 문구이다:
+Tensors transform like tensors.
+
+아래 기존의 references axes 를 새로운 axes로 변환시키는 변환 매트릭스 (transformation matrix)
+를 사용하여 벡터 a, second rank tensor $${\bf \sigma}$$ 그리고 4th rank tensor $$\mathbb{M}$$을 변환하는 법칙이 나와 있다.
 
 $$
 a^\prime_i = R_{ij} a_j \\
@@ -19,26 +21,26 @@ a^\prime_i = R_{ij} a_j \\
 $$
 
 
-** Einstein convention was used for the summation
+** [Einstein convention](https://en.wikipedia.org/wiki/Einstein_notation) was used for the summation ([아인슈타인 컨변션](https://ko.wikipedia.org/wiki/아인슈타인_표기법)이 사용되어있다.)
 
 
 Below fortran code is an example where the coordinate transformation
-is applied to a velocity vector by rotating the old coordinate axes
+is applied to a velocity vector ($$[30, 0, 0]$$) by rotating the old coordinate axes
 by an angle about the 3rd basis axis in the right-handed manner.
 
 
 In short, it does
 
 $$
-v^\prime_i = \sum_j^3 r_{ij}v_j
+v^\prime_i = \sum_j^3 R_{ij}v_j
 $$
 
 More explicitly it does **three** separate summation operations:
 
 $$
-v^\prime_1 = \sum_j^3 r_{1j}v_j\\
-v^\prime_2 = \sum_j^3 r_{2j}v_j\\
-v^\prime_3 = \sum_j^3 r_{3j}v_j\\
+v^\prime_1 = \sum_j^3 R_{1j}v_j\\
+v^\prime_2 = \sum_j^3 R_{2j}v_j\\
+v^\prime_3 = \sum_j^3 R_{3j}v_j\\
 $$
 
 Find the code below:
@@ -86,7 +88,7 @@ Find the code below:
 ```
 
 In order to use the code, copy and paste the above to a file (say, **transform.f**)
-and compile it using [gfortran](www.gnu.org) as in below
+and compile it using [gfortran](https://gcc.gnu.org/fortran/) as in below
 
 ```bash
 $ gfortran transform.f -o transform
@@ -145,7 +147,7 @@ Modified the above code to transform a stress tensor to a new coordinate axes.
 Excercise 2:
 Create a transformation matrix using three [Euler angles]({% link euler.md%}) and repeat the above task.
 
-Use below subroutine (downloaded from the website of prof. Anthony Rollett@CMU) to obtain the transformation matrix as a function of the three Euler angles
+Use below subroutine (downloaded from the [website](http://rollett.org/anthony/) of prof. Anthony Rollett@CMU) to obtain the transformation matrix as a function of the three Euler angles
 $$\phi_1, \Phi, \phi_2$$.
 
 

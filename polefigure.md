@@ -4,7 +4,7 @@ title: Pole figure
 ---
 
 - 아래의 링크를 따라서 pole figure software를 download 받으세요.
-[Find texture at GitHub](https://github.com/youngung/texture)
+  Find [texture](https://github.com/youngung/texture) at my GitHub repository.
 - You will also need [Python](https://python.org) as well as various packages.
 - And install the texture package on your system:
 ```
@@ -13,7 +13,7 @@ python setup.py install --user
 ```
 
 - I would recommend you to install [Anaconda Python](https://anaconda.org).
-- Follow the instruction in [This webpage](https://github.com/youngung/texture) to plot the pole figure.
+- Follow the instruction in [this webpage](https://github.com/youngung/texture) to plot the pole figure.
 
 
 - Plot [1,1,1] pole figure of IF steel. Use the discrete orientation file available [here]({% link B_ST_06000.cmb %}).
