@@ -21,7 +21,7 @@ a^\prime_i = R_{ij} a_j \\
 $$
 
 
-** [Einstein convention](https://en.wikipedia.org/wiki/Einstein_notation) was used for the summation ([아인슈타인 컨변션](https://ko.wikipedia.org/wiki/아인슈타인_표기법)이 사용되어있다.)
+** [Einstein convention](https://en.wikipedia.org/wiki/Einstein_notation) was used for the summation ([아인슈타인 컨벤션](https://ko.wikipedia.org/wiki/아인슈타인_표기법)이 사용되어있다.)
 
 
 Below fortran code is an example where the coordinate transformation

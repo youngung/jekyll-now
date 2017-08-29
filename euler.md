@@ -1,8 +1,37 @@
 ---
 layout: page
-title: Euler
+title: Euler angle 과 결정립의 방위
 ---
 
+# Euler angle
+
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+
+
+재료공학에서, 특히 집합조직과 관련하여, 시편에 대한 결정립의 방위는 Euler angles로 표현이 되곤 한다.
+여기서 우리는 z-x-z convention을 따르는 Euler angles로 세축에 대한 sequential한 회전으로 transformation matrix를 만들 수 있다.
+여기서 z, x, 그리고 다시 z축에 대한 회전을 각각 $$\phi_1, \Phi, $$ 그리고 $$\phi_2$$ 값으로 표현이 된다.
+각 회전에 의한 rotation matrix (혹은 각 회전에 해당하는 transformation matrix)는 다음과 같이 정의 된다.
+
+$$R^{\phi_1} = \begin{bmatrix} \cos \phi_1 & \sin \phi_1  & 0 \\ -\sin\phi_1 & \cos\phi_1 & 0 \\ 0 & 0& 1 \end{bmatrix}$$
+
+
+$$R^\Phi = \begin{bmatrix} 1 & 0 & 0 \\ 0 &\cos\Phi &\sin\Phi \\ 0 & -\sin\Phi & \cos\Phi \end{bmatrix}$$
+
+
+$$R^{\phi_2} = \begin{bmatrix} \cos \phi_2 & \sin \phi_2  & 0 \\ -\sin\phi_2 & \cos\phi_2 & 0 \\ 0 & 0& 1 \end{bmatrix}$$
+
+
+위 세 rotation (transformation) matrices를 조합하여 세 Euler angle에 의한 coordinate transformation matrix를 구할 수 있다:
+
+$$R_{ij}=R^{\phi_2}_{ik}R^{\Phi}_{kl}R^{\phi_1}_{lj}$$
+
+
+## Visualization of the three sequential rotations (transformation) by the three Euler angles.
 - 아래의 스크립트를 사용하여 서로 misoriented된 두 좌표계를 그릴 수 있습니다.
 
 - Use below script to generate two coordinate systems that are misoriented from each other.
@@ -61,6 +90,10 @@ title: Euler
 \end{document}
 ```
 
+
+
+
+
 - 위의 스크립트를 파일에 복사/붙여넣기 한다음에 pdflatex를 이용하여 그래프를 완성하세요.
 우선 [LaTeX](https://www.latex-project.org)를 설치하여야 합니다.
 그리고 [tikz package](https://www.ctan.org/pkg/pgf?lang=en)가 필요합니다.
@@ -75,7 +108,7 @@ Before doing it, you should make sure [LaTeX](https://www.latex-project.org/get/
 
 <img src='/images/coord_c.pdf' width='400'>
 
-- 위 스크립트의 ph, ps, omega 값들을 변경하여 다양한 좌표계를 그릴 수 있습니다.
+- 위 스크립트의 ph, ps, omega (각각 $$\phi_1,\Phi,\phi_2$$ 의미) 값들을 변경하여 원하는 좌표계 변환 과정을 그릴 수 있습니다.
 - Another example by changing ph, ps, and omega values in the script:
 
 <img src='/images/coord_c_1.pdf' width='400'>

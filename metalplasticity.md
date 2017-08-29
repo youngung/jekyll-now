@@ -11,7 +11,11 @@ Download lecture notes from the below links:
 --------------------------
 Further readings and useful pages
 
+- [Euler angles]({% link euler.md %})
+
 - [Tensors]({% link tensors.md %})
+
+- [SpreadSheet]({% link Euler2ndTensor.md %}) for tensor 2nd rank tensor transformation
 
 - [LaTeX script to understand Euler angle]({% link euler.md%})
 
