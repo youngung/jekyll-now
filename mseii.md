@@ -8,4 +8,4 @@ permalink: /mseii/
 
 1. [Orientation and Introduction]({%link /lecturenotes/MechMSE/01_Intro_MechMSE.pdf %})
 
-2. [Mechanical Properties - Part I]({%link /lecturenotes/MechMSE/02_금속의기계적성질Part1_MechMSE.pdf %})
+2. [Mechanical Properties - Part I]({%link /lecturenotes/MechMSE/02_MechPro_Part1_MechMSE.pdf %})
