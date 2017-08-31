@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to install gfortran (and notepad ++) on Windows
+title: How to install gfortran on Windows
 ---
 
 <!-- For Linux users, you might already have gfotran installed in your system. -->
