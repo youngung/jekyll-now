@@ -8,6 +8,6 @@ permalink: /metalforming/
 
 1. Orientation and Introduction: [lecture notes]({% link /lecturenotes/MetalForming/01_Intro_MF.pdf %})
 
-2. Stress and Strain
+2. Stress and Strain: [lecture notes]({% link /lecturenotes/MetalForming/02_StressStrain_MF.pdf %})
 
 --------------------------

@@ -8,6 +8,10 @@ Download lecture notes from the below links:
 
 1. Orientation and Introduction: [lecture notes]({% link /lecturenotes/MetalPlasticity/01_Intro_MP.pdf %})
 
+2. Scholar, Vector, and Coordinate system:
+
+3. Stress and Strain: [lecture notes]({% link /lecturenotes/MetalPlasticity/03_Stress_and_Strain_MP.pdf %})
+
 --------------------------
 Further readings and useful pages
 
@@ -15,7 +19,7 @@ Further readings and useful pages
 
 - [Tensors]({% link tensors.md %})
 
-- [SpreadSheet]({% link Euler2ndTensor.md %}) for tensor 2nd rank tensor transformation
+- Excell [SpreadSheet]({% link Euler2ndTensor.md %}) to practice 2nd rank tensor transformation
 
 - [LaTeX script to understand Euler angle]({% link euler.md%})
 
