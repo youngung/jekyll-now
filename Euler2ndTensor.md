@@ -10,9 +10,9 @@ permalink: /euler2ndtensor/
 </script>
 
 
-Click this [link](https://docs.google.com/spreadsheets/d/1sGk0MLZbCMCfNXPZ0hJoNsRUQG4K0DlyhorEA1PCNYw/edit?usp=sharing)
+Click this [link](https://docs.google.com/spreadsheets/d/1sGk0MLZbCMCfNXPZ0hJoNsRUQG4K0DlyhorEA1PCNYw/edit?usp=sharing) to use on-line Google spreadsheet.
 
-You can also download the spreadsheet in an excel form: [link]({% link /libs/Euler_2ndRankTensorTransform.xlsx %})
+You can also download the microsoft Excell spreadsheet: [link]({% link /libs/Euler_2ndRankTensorTransform.xlsx %})
 
 
 <img src='/images/spreadsheet.png' width='700'>
