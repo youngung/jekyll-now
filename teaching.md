@@ -31,7 +31,5 @@ permalink: /teaching/
 
 ## Useful tips
 
-####
-
 
 #### [How to install TeX live on Windows]({% link installtexlive.md %})
