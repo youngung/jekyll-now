@@ -19,7 +19,7 @@ In the above, find the link to 'binaries' in the red box and click on it.
 
 ### Second step: in the opened page, find the link in the red box as in the below figure and click on it.
 
-<img src="/images/InstallGfortranWindow/2.png" width="1300">
+<img src="/images/InstallGfortranWindow/2.png" width="800">
 
 A file named "gfortran-windows-20140629.exe" will be downloaded (caution, that's a 100 MB file.)
 
