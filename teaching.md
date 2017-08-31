@@ -31,7 +31,7 @@ permalink: /teaching/
 
 ## Useful tips
 
-#### [How to install Gfortran in Windows]({% link howtogfortran.md %})
+#### [How to install Gfortran on Windows]({% link howtogfortran.md %})
 
 
 #### [How to install TeX live on Windows]({% link installtexlive.md %})
