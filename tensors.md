@@ -46,7 +46,6 @@ $$
 Find the code below:
 
 ```fortran
-	program transform_vector
 	implicit none
 
 	dimension r(3,3), velocity_old(3), stress(3,3), velocity_new(3)
@@ -84,7 +83,7 @@ Find the code below:
 	write(*,*) 'new velocity'
 	write(*,'(3f5.1)') (velocity_new(i),i=1,3)
 
-	end program transform_vector
+	end program
 ```
 
 In order to use the code, copy and paste the above to a file (say, **transform.f**)
@@ -100,6 +99,23 @@ Execute the program using
 $ ./transform
 ```
 And, type the rotation angle you want to examine.
+
+
+For 2nd rank tensor transformation, you can use below lines:
+```fortran
+do i=1,3
+do j=1,3
+	s_new(i,j)=0.
+do k=1,3
+do l=1,3
+	s_new(i,j)=s_new(i,j) + r(i,k)*s_old(k,l)*r(j,l)
+enddo
+enddo
+enddo
+enddo
+```
+
+-----------------------------
 
 Similarly, a Python script is as below does the same.
 
@@ -124,7 +140,8 @@ r[2,2]=1.
 ## Apply v`_i = r_ij v_j
 for i in xrange(3):
 	for j in xrange(3):
-		velocity_new[i]=velocity_new[i]+r[i,j]*velocity_old[j]
+		velocity_new[i]=velocity_new[i]+ \
+	r[i,j]*velocity_old[j]
 
 print 'old velocity'
 print velocity_old

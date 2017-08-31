@@ -24,3 +24,14 @@ permalink: /teaching/
 
 
 #### [금속 유동 해석 특론 (Metal Plasticity)]({% link metalplasticity.md %})
+
+
+
+----------------------------
+
+## Useful tips
+
+#### [How to install Gfortran in Windows]({% link howtogfortran.md %})
+
+
+#### [How to install TeX live on Windows]({% link installtexlive.md %})
