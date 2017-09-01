@@ -35,3 +35,6 @@ permalink: /teaching/
 
 
 #### [How to install TeX live on Windows]({% link installtexlive.md %})
+
+
+#### [How to install Anaconda Python on Windows]({% link anaconda.md %})
