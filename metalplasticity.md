@@ -19,7 +19,7 @@ Further readings and useful pages
 
 - [Tensors]({% link tensors.md %})
 
-- Excell [SpreadSheet]({% link Euler2ndTensor.md %}) to practice 2nd rank tensor transformation
+- Excell/Google [SpreadSheet]({% link Euler2ndTensor.md %}) to practice 2nd rank tensor transformation
 
 - [LaTeX script to understand Euler angle]({% link euler.md%})
 

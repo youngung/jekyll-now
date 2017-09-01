@@ -91,12 +91,10 @@ $$R_{ij}=R^{\phi_2}_{ik}R^{\Phi}_{kl}R^{\phi_1}_{lj}$$
 ```
 
 
-
-
-
 - 위의 스크립트를 파일에 복사/붙여넣기 한다음에 pdflatex를 이용하여 그래프를 완성하세요.
 우선 [LaTeX](https://www.latex-project.org)를 설치하여야 합니다.
 그리고 [tikz package](https://www.ctan.org/pkg/pgf?lang=en)가 필요합니다.
+For Windows users, please refer to this internal [link]({% link installtexlive.md %})
 
 - Copy and paste the above snipets to a file and pdflatex it.
 Before doing it, you should make sure [LaTeX](https://www.latex-project.org/get/) is available.
