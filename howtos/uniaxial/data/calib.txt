@@ -1,0 +1,93 @@
+
+===============Axial extensometer===========================
+G=50mm
+
+Call:
+lm(formula = Pcal ~ Pext, data = cal)
+
+Residuals:
+       Min        1Q    Median        3Q       Max
+-0.411607  0.002852  0.020279  0.035568  0.113338
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)
+(Intercept)  7.80229    0.04340   179.8   <2e-16 ***
+Pext         2.45417    0.02186   112.3   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.1232 on 13 degrees of freedom
+Multiple R-squared: 0.999,      Adjusted R-squared: 0.9989
+F-statistic: 1.26e+04 on 1 and 13 DF,  p-value: < 2.2e-16
+
+
+so
+
+displacement = (2.45417 mm/V) * Voltage
+
+but remember that it doesn't go to zero volts at zero strain
+
+Raw data:
+Pcal : displacement in INCHES (25.4 mm/in)
+Pext : extensometer voltage
+Pcal    Pext
+0       -3.1756
+0.025   -2.918
+0.05    -2.662
+0.075   -2.405
+0.100   -2.149
+0.125   -1.892
+0.150   -1.635
+0.175   -1.378
+0.200   -1.122
+0.250   -0.608
+0.300   +0.09344
+0.350   0.422
+0.400   0.925
+0.45    1.432
+0.000   -3.189
+
+===============Axial extensometer===========================
+
+===============diametral extensometer===========================
+
+lm(formula = Pext ~ Pcal, data = cald)
+
+Residuals:
+       Min        1Q    Median        3Q       Max
+-0.047723 -0.012053 -0.004385  0.023610  0.032941
+
+Coefficients:
+               Estimate Std. Error t value Pr(>|t|)
+(Intercept) -14.809593   0.066176  -223.8 9.39e-15 ***
+Pcal          1.156166   0.005317   217.5 1.15e-14 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.02839 on 7 degrees of freedom
+Multiple R-squared: 0.9999,     Adjusted R-squared: 0.9998
+F-statistic: 4.729e+04 on 1 and 7 DF,  p-value: 1.148e-14
+
+so displacement = 1.156166 mm/V
+
+RAw data
+Pcal    Pext
+0.4     -3.03
+0.45    -1.571
+0.5     -0.101
+0.55    1.330
+0.6     2.806
+0.405   -2.928
+0.42    -2.498
+0.47    -1.055
+0.57    1.946
+
+Pcal is gage block thickness in INCHES
+Pext is extensometer voltage in VOLTS
+
+Again, zero strain does not correspond to zero volts.
+
+
+
+
+===============diametral extensometer===========================
