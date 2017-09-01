@@ -12,7 +12,7 @@ python setup.py build
 python setup.py install --user
 ```
 
-- I would recommend you to install [Anaconda Python](https://anaconda.org).
+- I would recommend you to install [Anaconda Python](https://anaconda.org). You can find a short instruction [here]({% link anaconda.md %}), as well.
 - Follow the instruction in [this webpage](https://github.com/youngung/texture) to plot the pole figure.
 
 

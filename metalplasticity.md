@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 금속 유동 해석 특론 (Metal Plasticity)
+title: Metal Plasticity (금속 유동 해석 특론; 대학원 과정)
 permalink: /metalplasticity/
 ---
 
@@ -12,7 +12,16 @@ Download lecture notes from the below links:
 
 3. [Stress and Strain]({% link /lecturenotes/MetalPlasticity/03_Stress_and_Strain_MP.pdf %})
 
---------------------------
+--------------------------------------------------
+
+Some quest(s) for advanced students.
+
+a. Processing raw data obtained from uniaxial tension tests: click [here]({% link tensile.md %})!
+
+
+--------------------------------------------------
+
+
 Further readings and useful pages
 
 - [Euler angles]({% link euler.md %})

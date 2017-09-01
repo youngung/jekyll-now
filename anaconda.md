@@ -41,8 +41,8 @@ title: Install Anaconda Python
 <img src='/images/anaconda/2.png' width='800'>
 
 
-### 9. Learn how to navigate through Jupynoter notebook [here](http://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Notebook%20Basics.html).
+### 9. Learn how to navigate through Jupyter notebook [here](http://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Notebook%20Basics.html).
 
-If you find difficulty follow English instruction and want to translate, use [Google translator](https://translate.google.com).
-There, you can put the URL link and get it translated in your mother tongue.
+If you find it difficult to follow English instructions and want to translate, use [Google translator](https://translate.google.com).
+Alternatively, you can also copy/paste the URL and get the entire page translated in your mother tongue.
 For instance, click this [link](https://translate.google.com/translate?sl=auto&tl=ko&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fjupyter-notebook.readthedocs.io%2Fen%2Flatest%2Fexamples%2FNotebook%2FNotebook%2520Basics.html&edit-text=&act=url) to see the version of the above page translated in Korea using Google Translator.
