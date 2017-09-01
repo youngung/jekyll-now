@@ -10,7 +10,7 @@ This page is to illustrate how to process typical uniaxial tension test data.
 First of all, I assume you already have Anaconda Python 2.7 installed on your system.
 If you have not done it yet, install it following this [link]({% link anaconda.md %}).
 
-Once you installed Anaconda Python 2.7 successfully, download the **RAW** data from [here]().
+Once you installed Anaconda Python 2.7 successfully, download the **RAW** data from [here]({% link howtos/uniaxial/rawdata.zip %}).
 
 
 
