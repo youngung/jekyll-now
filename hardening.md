@@ -8,10 +8,19 @@ title: strain hardening
 </script>
 
 
+----------------------------------------------------------------------
 ### Hollomon hardening
 
 $$\sigma=K\varepsilon^n $$
 
+----------------------------------------------------------------------
 ### Voce hardening
 
+Refer to the below Python notebook.
+
+<img src="/images/voce_hardening.png" width="700">
+
+
+----------------------------------------------------------------------
+### Hollom and strain rate sensitivity
 $$\sigma=K\varepsilon^n\dot{\varepsilon}^m$$
