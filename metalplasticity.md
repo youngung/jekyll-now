@@ -24,11 +24,13 @@ a. Processing raw data obtained from uniaxial tension tests: click [here]({% lin
 
 Further readings and useful pages
 
+- [Strain hardening]({% link tensile.md %})
+
 - [Euler angles]({% link euler.md %})
 
 - [Tensors]({% link tensors.md %})
 
-- Excell/Google [SpreadSheet]({% link Euler2ndTensor.md %}) to practice 2nd rank tensor transformation
+- Excel/Google [SpreadSheet]({% link Euler2ndTensor.md %}) to practice 2nd rank tensor transformation
 
 - [LaTeX script to understand Euler angle]({% link euler.md%})
 
