@@ -79,3 +79,11 @@ c:\Users\Youngung\Downloads\lapack-3.4.0> testlibs.bat   [엔터]
 ```
 
 <img src='/images/installLAPACK/7.png'>
+
+위 역시 수분이 걸릴 수 있다. 테스트 완료후 다음과 같은 화면을 볼 수 있을 것이다.
+
+<img src='/images/installLAPACK/8.png'>
+
+
+## 8. Test
+한 예제 program 을 테스트 해봅시다: [링크]({%link libs/ev.f %})
