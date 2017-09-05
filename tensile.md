@@ -24,4 +24,4 @@ Find also the raw data files from [here]({% link howtos/uniaxial/rawdata.zip %})
 -------------------------------------------
 ### Strain-hardening models
 
-Take a look at this [page]({% link hardening.md %})
+Take a look at this [page]({% link hardening.md %}).

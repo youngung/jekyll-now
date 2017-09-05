@@ -34,7 +34,17 @@ permalink: /teaching/
 #### [How to install Gfortran on Windows]({% link howtogfortran.md %})
 
 
+#### [How to install LAPACK on Windows]({% link lapack.md %})
+
+
 #### [How to install TeX live on Windows]({% link installtexlive.md %})
 
 
 #### [How to install Anaconda Python on Windows]({% link anaconda.md %})
+
+
+----------------------------
+
+## Other various utilies
+
+#### [tar]({% link tar.md %}) on Windows

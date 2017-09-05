@@ -16,5 +16,4 @@ Assistant professor, Materials Science and Engineering, Changwon National Univer
 
 Find more about me [here]({% link youngung.md %})
 
-
 ### Undergraduates

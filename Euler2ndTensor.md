@@ -32,3 +32,5 @@ $$
 $$
 
 We can obtain the trasnformation $${\bf R}$$ as a function of three Euler angles ($$\phi_1,\Phi,\phi_2$$) - look for more about Euler angles [here]({% link euler.md %}).
+
+Note that in the Excel, the summation is performed using [MMULT function](https://support.office.com/en-us/article/MMULT-function-40593ed7-a3cd-4b6b-b9a3-e4ad3c7245eb).
