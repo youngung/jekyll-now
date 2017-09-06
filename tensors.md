@@ -7,6 +7,10 @@ title: Tensors
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
+텐서와 벡터에 대한 아주 좋은 설명을 아래 YouTube동영상에서 찾을 수 있다.
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/f5liqUk0ZTw/0.jpg)](http://www.youtube.com/watch?v=f5liqUk0ZTw)
+
 
 텐서의 정의를 가장 잘 표현한 문구이다:
 Tensors transform like tensors.

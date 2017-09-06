@@ -212,7 +212,7 @@ det=a(1,1)*a(2,2)*a(3,3)
 ```
 
 위 프로그램을 실행하기 위해서는
-- 첫째, LAPACK이 설치되어 있어야 한다.
+- 첫째, LAPACK이 설치되어 있어야 한다 - [설치방법]({% link lapack.md %})
 - 둘째, 위의 프로그램을 fortran compiler를 사용해 적절히 executable을 생성시켜야 한다.
   예를 들어 위의 코드를 *ex.f* 로 저장했다면 아래와 같이 gfortran과 LAPACK을 활용해 compile할 수 있다.
 ```bash
@@ -263,5 +263,6 @@ $$\phi_1, \Phi, \phi_2$$ Euler angle들의 형태로 Old coordinate system을 �
 
 
 
+위 과정을 성공적으로 마무리 했다면 ...
 
 <img src="https://imgs.xkcd.com/comics/error_code.png">
