@@ -258,11 +258,8 @@ $> ./ex
 $$\phi_1, \Phi, \phi_2$$ Euler angle들의 형태로 Old coordinate system을 변환하면
 얻어진 주 응력값을 주는 principal stress space를 얻을 수 있다.
 
+위의 example를 [Excel spreadsheet]({% link Euler2ndTensor.md %})로 직접 실습해보자.
 
-위의 example를 Excel spreadsheet로 직접 실습해보자.
-
-
-
-위 과정을 성공적으로 마무리 했다면 ...
+위의 전과정을 성공적으로 마무리 했다면 ... 축하드립니다!
 
 <img src="https://imgs.xkcd.com/comics/error_code.png">

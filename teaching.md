@@ -36,6 +36,8 @@ permalink: /teaching/
 
 ----------------------------
 
+other useful tips: [here]({% link usefultips.md %})
+
 리눅스(혹은 유닉스나 맥) 유저들은 위 프로그램 설치가 비교적 더 용이하게 가능하다.
 
 특히 Linux의 경우 한줄의 명령어로 많은 package들이 설치가능하다.
