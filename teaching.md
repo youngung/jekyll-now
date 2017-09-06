@@ -37,13 +37,16 @@ permalink: /teaching/
 ----------------------------
 
 리눅스(혹은 유닉스나 맥) 유저들은 위 프로그램 설치가 비교적 더 용이하게 가능하다.
-예를 들어 gfortran의 경우
+
+특히 Linux의 경우 한줄의 명령어로 많은 package들이 설치가능하다.
+
+예를 들어 Ubuntu에서는 gfortran을
 
 ```bash
 $> sudo apt-get install gfortran
 ```
 
-위의 명령어로 gfortran 이 설치된다.
+위의 명령어로 설치할 수 있다.
 
 LAPACK의 경우
 
@@ -53,4 +56,7 @@ $> sudo apt-get install liblapack-dev
 로 간단히 설치 가능하다.
 
 ---------------------------
-윈도10 사용자들중 리눅스를 사용하고 싶은 이는 [여기](https://www.windowscentral.com/how-install-bash-shell-command-line-windows-10)를 클릭해서 살펴보자.
+
+윈도10 사용자들중 리눅스(우분투 bash shell)를 사용하고 싶은 이는
+[여기](https://www.windowscentral.com/how-install-bash-shell-command-line-windows-10)를
+ 클릭해서 살펴보자.
