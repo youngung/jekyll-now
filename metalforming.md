@@ -10,4 +10,6 @@ permalink: /metalforming/
 
 2. Stress and Strain: [lecture notes]({% link /lecturenotes/MetalForming/02_StressStrain_MF.pdf %})
 
+3. Principal space and elasticity: [lecture notes]({% link /lecturenotes/MetalForming/03_PrincipalSpaceElasticity_MF.pdf %})
+
 --------------------------
