@@ -8,4 +8,4 @@ title: Yield surface drawing
 </script>
 
 Download the microsoft Excell spreadsheet: [link]({% link /libs/Euler_2ndRankTensorTransform.xlsx %})
-or follow this [link](link https://docs.google.com/spreadsheets/d/1Vp6OftBvI1BJ939lu3-ntUq2XIAYjSjf1lOpehPvLGQ/edit?usp=sharing) to open up the google sheet version.
+or follow this [link](https://docs.google.com/spreadsheets/d/1Vp6OftBvI1BJ939lu3-ntUq2XIAYjSjf1lOpehPvLGQ/edit?usp=sharing) to open up the google sheet version.
