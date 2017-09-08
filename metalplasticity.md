@@ -34,6 +34,8 @@ Further readings and useful pages
 
 - Excel/Google [SpreadSheet]({% link Euler2ndTensor.md %}) to practice 2nd rank tensor transformation
 
+- Excel/Google [SpreadSheet]({% link yieldsurface.md %}) to practice yield surface drawing
+
 - [LaTeX script to understand Euler angle]({% link euler.md%})
 
 - [Pole figure plotting]({% link polefigure.md %})
