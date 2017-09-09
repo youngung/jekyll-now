@@ -12,4 +12,6 @@ permalink: /metalforming/
 
 3. Principal space and elasticity: [lecture notes]({% link /lecturenotes/MetalForming/03_PrincipalSpaceElasticity_MF.pdf %})
 
+4. Macroscopic Plsticity and Yielding: [lecture notes]({% link /lecturenotes/MetalForming/04_MacroscopicPlasticityYielding_MF.pdf %})
+
 --------------------------
