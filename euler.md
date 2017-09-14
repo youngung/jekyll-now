@@ -119,7 +119,7 @@ A Fortran subroutine is available from professor Anthony Rollett at Carnegie Mel
 A Python script that does the work is available in below:
 
 
-```Python
+```python
 def euler(ph=None, th=None, tm=None, a=None, echo=True):
 	"""
 	note:
