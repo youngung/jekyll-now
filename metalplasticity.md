@@ -40,4 +40,4 @@ Further readings and useful pages
 
 - [Pole figure plotting]({% link polefigure.md %})
 
-<!-- - [thin-walled tube]({% link thinwalltube.md %}) -->
+- [thin-walled tube]({% link thinwalltube.md %})
