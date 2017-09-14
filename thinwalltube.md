@@ -48,4 +48,4 @@ ax2.set_ylabel('P (pressure) \n [MPa]',fontsize=15)
 tight_layout()
 ```
 
-![png]({% link images/examples/output_2_0.png %})
+<!-- ![png]({% link images/examples/output_2_0.png %}) -->
