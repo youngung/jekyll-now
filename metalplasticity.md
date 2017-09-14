@@ -41,5 +41,3 @@ Further readings and useful pages
 - [Pole figure plotting]({% link polefigure.md %})
 
 - [thin-walled tube]({% link thinwalltube.md %})
-
-<!-- - [thin-walled tube]({% link fig4-4_metalforming_hosford%26caddel.html %}) -->
