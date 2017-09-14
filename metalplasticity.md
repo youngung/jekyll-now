@@ -39,3 +39,7 @@ Further readings and useful pages
 - [LaTeX script to understand Euler angle]({% link euler.md%})
 
 - [Pole figure plotting]({% link polefigure.md %})
+
+- [thin-walled tube]({% link thinwalltube.md %})
+
+<!-- - [thin-walled tube]({% link fig4-4_metalforming_hosford%26caddel.html %}) -->
