@@ -16,4 +16,6 @@ permalink: /metalforming/
 
 5. Work Hardening: [lecture notes]({% link /lecturenotes/MetalForming/05_WorkHardening_MF.pdf %})
 
+6. Instability: [lecture notes]({% link /lecturenotes/MetalForming/06_Instability_MF.pdf %})
+
 --------------------------
