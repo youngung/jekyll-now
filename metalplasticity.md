@@ -42,4 +42,4 @@ Further readings and useful pages
 
 - [thin-walled tube]({% link thinwalltube.md %})
 
-- [Newton-Raphson for inhomogeneous material]({% link nr_example.md %})
+- [Newton-Raphson approach to solve the instability of metals under uniaxial tension]({% link nr_example.md %})
