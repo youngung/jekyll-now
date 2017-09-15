@@ -41,3 +41,5 @@ Further readings and useful pages
 - [Pole figure plotting]({% link polefigure.md %})
 
 - [thin-walled tube]({% link thinwalltube.md %})
+
+- [Newton-Raphson for inhomogeneous material]({% link nr_example.md %})

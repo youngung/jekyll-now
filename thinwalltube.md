@@ -49,3 +49,7 @@ tight_layout()
 ```
 
 <img src="/images/examples/output_2_0.png" width="600">
+
+
+
+직접 Python을 활용하여 위를 실행할 계획이라면 [여기](https://github.com/youngung/lectures/blob/master/ipynb/fig4-4_metalforming_hosford%26caddell.ipynb)를 참고하세요.
