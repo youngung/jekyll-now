@@ -3,9 +3,7 @@ layout: page
 title: Thin-walled tube
 ---
 
-아래 python script는 W. F. Hosford & R. M. Caddell 의 Metal Forming
-에서 chapter 4에 실린 삽화 4-4를 재현합니다.
-
+아래 python script는 W. F. Hosford & R. M. Caddell 의 Metal Forming의 chapter 4에 실린 삽화 4-4를 재현합니다.
 
 ```python
 import matplotlib.pyplot as plt
@@ -49,7 +47,6 @@ tight_layout()
 ```
 
 <img src="/images/examples/output_2_0.png" width="600">
-
 
 
 직접 Python을 활용하여 위를 실행할 계획이라면 [여기](https://github.com/youngung/lectures/blob/master/ipynb/fig4-4_metalforming_hosford%26caddell.ipynb)를 참고하세요.
