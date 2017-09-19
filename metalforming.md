@@ -18,4 +18,6 @@ permalink: /metalforming/
 
 6. Instability: [lecture notes]({% link /lecturenotes/MetalForming/06_Instability_MF.pdf %})
 
+7. Strain Rate and Temperature: [lecture notes]({% link /lecturenotes/MetalForming/07_StrainRateTemperature_MF.pdf %})
+
 --------------------------
