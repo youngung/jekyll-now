@@ -21,3 +21,5 @@ permalink: /mseii/
 7. [Phase transformation - Part II]({% link /lecturenotes/MechMSE/05_PhaseTransformation_part2.pdf %})
 
 8. [Phase transformation - Part III]({% link /lecturenotes/MechMSE/05_PhaseTransformation_part3.pdf %})
+
+9. [Properties and applications of metals]({% link /lecturenotes/MechMSE/06_PropsAppsOfMetals.pdf %})
