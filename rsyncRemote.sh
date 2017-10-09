@@ -9,4 +9,4 @@ rsync -PaHAv --numeric-ids ~/onedrive/OneDrive\ -\ changwon.ac.kr/Lectures/2017F
 rsync -PaHAv --numeric-ids ~/onedrive/OneDrive\ -\ changwon.ac.kr/Lectures/2017Fall/기계재료개론/*.pdf lecturenotes/MechMSE/
 rsync -PaHAv --numeric-ids ~/onedrive/OneDrive\ -\ changwon.ac.kr/Lectures/2017Fall/소성가공/*.pdf lecturenotes/MetalForming/
 
-git commit -am 'Lecture note updates'
+git commit -am 'Lecture note updates'&&git push github master
