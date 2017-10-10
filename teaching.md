@@ -4,6 +4,13 @@ title: Teaching
 permalink: /teaching/
 ---
 
+
+### 공지사항
+- 2017년 10월 19일 기계재료공학 및 소성가공학 휴강입니다.
+- 2017년 10월 26일 기계재료공학 중간 고사입니다 (10:30am-11:30am).
+- 2017년 11월 3일 기계재료공학 오후 3시에 52401에서 보강실시합니다.
+
+
 ### 1학기
 
 #### 메카트로닉스 재료개론 (Introduction to Materials Science and Engineering I)
@@ -16,7 +23,7 @@ permalink: /teaching/
 
 #### [소성 가공 (Metal Forming)]({% link metalforming.md %})
 
-#### [기계재료 개론 (Introduction to Materials Science and Engineering II)]({% link mseii.md %})
+#### [기계재료공학 (Introduction to Materials Science and Engineering II)]({% link mseii.md %})
 
 #### [금속 유동 해석 특론 (Metal Plasticity)]({% link metalplasticity.md %})
 
