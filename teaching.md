@@ -69,6 +69,6 @@ $> sudo apt-get install liblapack-dev
 
 ---------------------------
 
-윈도10 사용자들중 리눅스(우분투 bash shell)를 사용하고 싶은 이는
+윈도10 사용자들 중에서 리눅스(우분투 bash shell)를 사용하고 싶은 이는
 [여기](https://www.windowscentral.com/how-install-bash-shell-command-line-windows-10)를
  클릭해서 살펴보자.
