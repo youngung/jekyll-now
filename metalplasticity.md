@@ -12,6 +12,8 @@ Download lecture notes from the below links:
 
 3. [Stress and Strain]({% link /lecturenotes/MetalPlasticity/03_Stress_and_Strain_MP.pdf %})
 
+4. [Principal Space and Elasticity]({% link /lecturenotes/MetalPlasticity/04_PrincipalSpaceElasticity_MP.pdf %})
+
 --------------------------------------------------
 
 Some quest(s) for advanced students.
