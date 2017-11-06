@@ -6,13 +6,12 @@ permalink: /teaching/
 
 
 ### 공지사항
-- 2017년 11월 3일 소성가공특론 보강 취소입니다.
-- 2017년 11월 3일 기계재료공학 3시 보강 취소입니다.
-- 2017년 11월 3일 소성가공학 보강 취소입니니다.
-- [2017년 소성가공학 중간고사 성적]({%link /dat/score_record_2017_MF_analysis.txt%})
-<img src='/dat/score_record_2017_MF.png'>
-- [2017년 기계재료공학 중간고사 성적]({%link /dat/score_record_2017_MSEII_analysis.txt%})
-<img src='/dat/score_record_2017_MSEII.png'>
+
+
+<!-- - [2017년 소성가공학 중간고사 성적]({%link /dat/score_record_2017_MF_analysis.txt%}) -->
+<!-- <img src='/dat/score_record_2017_MF.png'> -->
+<!-- - [2017년 기계재료공학 중간고사 성적]({%link /dat/score_record_2017_MSEII_analysis.txt%}) -->
+<!-- <img src='/dat/score_record_2017_MSEII.png'> -->
 
 
 ----------------------------
