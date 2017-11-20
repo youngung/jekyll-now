@@ -14,6 +14,8 @@ Download lecture notes from the below links:
 
 4. [Principal Space and Elasticity]({% link /lecturenotes/MetalPlasticity/04_PrincipalSpaceElasticity_MP.pdf %})
 
+5. [Macroscopic Plasticity Yielding]({% link /lecturenotes/MetalPlasticity/05_MacroscopicPlasticityYielding_MP.pdf%})
+
 --------------------------------------------------
 
 Some quest(s) for advanced students.
