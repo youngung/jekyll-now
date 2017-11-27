@@ -15,6 +15,8 @@ title: Newton Raphson method for inhomogeneous specimen in tension
 위의 링크에서 찾을 수 있는 Jupyter notebook을 직접 활용하기 위해서는 사용중인 컴퓨터에 Anaconda Python이 설치되어야 합니다.
 자세한 것은 [여기서]({% link anaconda.md%}) 찾으세요.
 
+** Microsoft Excel을 활용한 방법은 [여기](https://youtu.be/lxwJ8XfAl80)에서 찾을 수 있습니다. **
+
 
 ## 교재의 5-10 Fig.
 해당 논의와 관련된 Jupyter notebook은 [여기](https://github.com/youngung/lectures/blob/master/ipynb/fig5-10_metalforming_hosford%26caddell.ipynb)에서 살펴볼 수 있습니다.
