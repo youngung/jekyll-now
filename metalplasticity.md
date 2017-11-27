@@ -16,6 +16,9 @@ Download lecture notes from the below links:
 
 5. [Macroscopic Plasticity Yielding]({% link lecturenotes/MetalPlasticity/05_MacroscopicPlasticityYielding_MP.pdf %})
 
+6. [Work Hardening]({% link lecturenotes/MetalPlasticity/06_WorkHardening_MP.pdf %})
+
+
 --------------------------------------------------
 
 Some quest(s) for advanced students.
