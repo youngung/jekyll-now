@@ -18,6 +18,8 @@ Download lecture notes from the below links:
 
 6. [Work Hardening]({% link lecturenotes/MetalPlasticity/06_WorkHardening_MP.pdf %})
 
+7. [Instability]({% link lecturenotes/MetalPlasticity/07_Instability_MP.pdf %})
+
 
 --------------------------------------------------
 
