@@ -22,14 +22,14 @@ title: Install Anaconda Python
    dir
 ```
 
-### 6. Once you arrive to the directory you want, type below command to launch the Jupyter notebook
+### 6. Once you arrive at the directory, type below command to launch the Jupyter notebook
 
 ```bash
    jupyter notebook
 ```
 
 
-### 7. Once you have successfully followed the above steps, you'll be able to see
+### 7. Once you have successfully followed the above steps, you should be able to see
 
 <img src='/images/anaconda/1.png' width='800'>
 
