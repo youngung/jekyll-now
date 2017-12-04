@@ -20,6 +20,8 @@ Download lecture notes from the below links:
 
 7. [Instability]({% link lecturenotes/MetalPlasticity/07_Instability_MP.pdf %})
 
+8. [Strain Rate and Temperature]({% link lecturenotes/MetalPlasticity/08_StrainRateTemperature_MP.pdf %})
+
 
 --------------------------------------------------
 
