@@ -8,7 +8,7 @@
 rsync -PaHAv --numeric-ids ~/onedrive/OneDrive\ -\ changwon.ac.kr/Lectures/2017Fall/금속유동해석특론/*.pdf lecturenotes/MetalPlasticity/
 rsync -PaHAv --numeric-ids ~/onedrive/OneDrive\ -\ changwon.ac.kr/Lectures/2017Fall/기계재료개론/*.pdf lecturenotes/MechMSE/
 rsync -PaHAv --numeric-ids ~/onedrive/OneDrive\ -\ changwon.ac.kr/Lectures/2017Fall/소성가공/*.pdf lecturenotes/MetalForming/
-rsync -PaHAv --numeric-ids ~/onedrive/OneDrive\ -\ changwon.ac.kr/Lectures/2017Fall/TransportPhenomena/*.pdf lecturenotes/TransportPhenomena/
+rsync -PaHAv --numeric-ids ~/onedrive/OneDrive\ -\ changwon.ac.kr/Lectures/2018Spring/TransportPhenomena/*.pdf lecturenotes/TransportPhenomena/
 
 
 bash update.sh
