@@ -21,3 +21,7 @@ permalink: /metalforming/
 7. Strain Rate and Temperature: [lecture notes]({% link /lecturenotes/MetalForming/07_StrainRateTemperature_MF.pdf %})
 
 --------------------------
+
+** 참고자료
+
+- [Excel file for **Euler method**]({% link /libs/Euler_Method.xlsx %})
