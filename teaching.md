@@ -35,6 +35,12 @@ permalink: /teaching/
 #### [금속 유동 해석 특론 (Metal Plasticity)]({% link metalplasticity.md %})
 
 ----------------------------
+### 기타
+
+
+#### [전산재료과학 (Computational Materials Science)]({% link cmse.md %})
+----------------------------
+
 
 ## Useful tips for Windows users.
 
