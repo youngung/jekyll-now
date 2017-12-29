@@ -24,4 +24,39 @@ permalink: /metalforming/
 
 ** 참고자료
 
+**Metal Forming**, William Hosford
+
+**Applied Mechanics of Solids**, Bower
+
+--------------------------
+
+
+Some quest(s) for advanced students.
+
+a. Processing raw data obtained from uniaxial tension tests: click [here]({% link tensile.md %})!
+
+--------------------------------------------------
+
+Further readings and useful pages
+
+- [Strain hardening]({% link tensile.md %})
+
+- [Euler angles]({% link euler.md %})
+
 - [Excel file for **Euler method**]({% link /libs/Euler_Method.xlsx %})
+
+- [Tensors]({% link tensors.md %})
+
+- [Principal space]({% link principal.md %})
+
+- Excel/Google [SpreadSheet]({% link Euler2ndTensor.md %}) to practice 2nd rank tensor transformation
+
+- Excel/Google [SpreadSheet]({% link yieldsurface.md %}) to practice yield surface drawing
+
+- [LaTeX script to understand Euler angle]({% link euler.md%})
+
+- [Pole figure plotting]({% link polefigure.md %})
+
+- [thin-walled tube]({% link thinwalltube.md %})
+
+- [Newton-Raphson approach to solve the instability of metals under uniaxial tension]({% link nr_example.md %})

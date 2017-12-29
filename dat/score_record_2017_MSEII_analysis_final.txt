@@ -1,0 +1,42 @@
+      ID Score
+--------------
+xxxx5068  63.5
+xxxx5034  73.0
+xxxx5076  26.5
+xxxx3237  62.5
+xxxx5023  74.5
+xxxx4476  44.0
+xxxx5039  64.5
+xxxx5030   2.0
+xxxx5022  23.0
+xxxx5031  27.5
+xxxx5068  14.0
+xxxx5077  17.0
+xxxx5038  16.0
+xxxx5026  18.0
+xxxx5060   9.0
+xxxx5000  33.0
+xxxx5042  32.5
+xxxx5058  39.0
+xxxx5003  77.0
+xxxx5036  53.0
+xxxx5080  10.0
+xxxx5027  14.5
+xxxx5053  21.0
+xxxx5061  66.5
+xxxx5046  20.0
+xxxx5019  77.0
+xxxx5032  45.0
+xxxx5026  34.5
+xxxx5039  37.0
+xxxx5033  76.5
+xxxx5272  66.0
+xxxx3168  83.5
+xxxx5043  62.0
+xxxx5035  69.5
+xxxx5005  72.5
+xxxx5016  89.5
+xxxx2003  80.0
+
+average:  45.80
+std    :  25.71
