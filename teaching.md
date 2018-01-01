@@ -11,8 +11,6 @@ permalink: /teaching/
 - [2017년 소성가공학 기말고사 성적]({%link /dat/score_record_2017_MF_analysis_final.txt%})
 <img src='/dat/score_record_2017_MF_final.png'>
 
-
-
 ----------------------------
 
 ### 1학기
