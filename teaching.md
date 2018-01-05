@@ -15,31 +15,32 @@ permalink: /teaching/
 
 ## 창원대학교 학사 규정집
 
-[링크](http://w3.changwon.ac.kr/kor/html/05_facilities/facilities_0101.php)
-[출석인정신청서]({% link /forms/absence_form.hwp %})
+- 규정집 웹페이지 [Link](http://w3.changwon.ac.kr/kor/html/05_facilities/facilities_0101.php)
 
+- 출석인정신청서 [download]({% link /forms/absence_form.hwp %})
 
-## 담당 교과목
 
 ----------------------------
 
+## 담당 교과목
+
 ### 1학기
 
-#### 메카트로닉스 재료개론 (Introduction to Materials Science and Engineering I)
+- 메카트로닉스 재료개론 (Introduction to Materials Science and Engineering I)
 
-#### [이동 현상 (Transport Phenomena)]({% link transportphenomena.md %})
+- [이동 현상 (Transport Phenomena)]({% link transportphenomena.md %})
 
-#### 금속 유동 해석 (Plastic flow analysis)
+- 금속 유동 해석 (Plastic flow analysis)
 
 ----------------------------
 
 ### 2학기
 
-#### [소성 가공 (Metal Forming)]({% link metalforming.md %})
+- [소성 가공 (Metal Forming)]({% link metalforming.md %})
 
-#### [기계재료공학 (Introduction to Materials Science and Engineering II)]({% link mseii.md %})
+- [기계재료공학 (Introduction to Materials Science and Engineering II)]({% link mseii.md %})
 
-#### [금속 유동 해석 특론 (Metal Plasticity)]({% link metalplasticity.md %})
+- [금속 유동 해석 특론 (Metal Plasticity)]({% link metalplasticity.md %})
 
 ----------------------------
 ### 기타
