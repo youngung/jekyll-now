@@ -5,11 +5,21 @@ permalink: /teaching/
 ---
 
 
-### 공지사항
+## 공지사항
 - [2017년 기계재료공학 기말고사 성적]({%link /dat/score_record_2017_MSEII_analysis_final.txt%})
 <img src='/dat/score_record_2017_MSEII_final.png'>
 - [2017년 소성가공학 기말고사 성적]({%link /dat/score_record_2017_MF_analysis_final.txt%})
 <img src='/dat/score_record_2017_MF_final.png'>
+
+----------------------------
+
+## 창원대학교 학사 규정집
+
+[링크](http://w3.changwon.ac.kr/kor/html/05_facilities/facilities_0101.php)
+[출석인정신청서]({% link /forms/absence_form.hwp %})
+
+
+## 담당 교과목
 
 ----------------------------
 
