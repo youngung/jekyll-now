@@ -5,9 +5,34 @@ permalink: /programs/
 ---
 
 Most of my computer programs I developed and use for research are available in an open-source domain [GitHub](http://github.com/youngung).
+Note that **not all** computer codes are in the open source domain, particularly those I'm actively working thus not ready for publication yet.
+
+The list of programs explained in this page is as below:
+
+
+|    **Names (with anchor links)**|  **Important Features**								 | **Links**																|
+|           :-:					  |                   :-:								 |:-:																		|
+| **[DiffStress](#diffstress)**   | Stress analysis \\applicable to X-Ray, Neutron, CP	 |	[Link to Github page](https://github.com/usnistgov/DiffStress)			|
+| **[VPSC-FLD-YLD](#vpscfldyld)** | FLD and yield functions using VPSC                   |  Only private access                                                     |
+| **[Texture](#texture)**         | Python script for crystallographic texture analysis. |  [link to Github Page](https://github.com/usnistgov/texture)             |
+
+
+
+
+<!-- |-----------------------------|----------------------------------------------|-------------------------| -->
+<!-- |**[DiffStress](#diffstress)** | - Stress analysis using lattice strains     |                         | -->
+<!-- |                              | + diffraction experiments                   |                         | -->
+<!-- |                              | + crystal plasticity calculations           | [Link to Github page](https://github.com/usnistgov/DiffStress) | -->
+<!-- |-----------------------------|----------------------------------------------|-----------------------------------------------------------------| -->
+<!-- |**[VPSC-FLD-YLD](#vpscfldyld)** | Viscoplastic self-consistent crystal plasticity model for FLD calculation and Yield function characterization   |  Private access  | -->
+<!-- |----------------------------------------------------------| -->
+<!-- |**[Texture](#texture)**      | Python script for crystallographic texture analysis. Model texture generation and (inverse) pole figure plots   | https://github.com/usnistgov/texture   | -->
+
+
+
 
 ------------
-### DiffStress
+### <a id="diffstress"></a>DiffStress
 
 DiffStress is a Python-based diffraction analysis tool that
 analyzes the *tensorial* stress state present on a polycrystal sample.
@@ -128,7 +153,7 @@ in real experiments.
 
 
 --------------------
-### VPSC-FLD-YLD
+### <a id="vpscfldyld"></a>VPSC-FLD-YLD
 
 - This package can be used to conduct the below tasks:
 
@@ -204,7 +229,7 @@ for dislocation-density based hardening (Ref. [1,2,4])
 
 
 ------------------------------------------------------------------------
-### Texture
+### <a id="texture"></a>Texture
 
 A collection of python modules to analyze/plot crystallographic texture.
 Below is the list of main modules included in this package, which can be useful

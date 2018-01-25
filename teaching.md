@@ -5,20 +5,13 @@ permalink: /teaching/
 ---
 
 
-## 공지사항
-- [2017년 기계재료공학 기말고사 성적]({%link /dat/score_record_2017_MSEII_analysis_final.txt%})
-<img src='/dat/score_record_2017_MSEII_final.png'>
-- [2017년 소성가공학 기말고사 성적]({%link /dat/score_record_2017_MF_analysis_final.txt%})
-<img src='/dat/score_record_2017_MF_final.png'>
+<!-- ## 공지사항 -->
+<!-- - [2017년 기계재료공학 기말고사 성적]({%link /dat/score_record_2017_MSEII_analysis_final.txt%}) -->
+<!-- <img src='/dat/score_record_2017_MSEII_final.png'> -->
+<!-- - [2017년 소성가공학 기말고사 성적]({%link /dat/score_record_2017_MF_analysis_final.txt%}) -->
+<!-- <img src='/dat/score_record_2017_MF_final.png'> -->
 
-----------------------------
-
-## 창원대학교 학사 규정집
-
-- 규정집 웹페이지 [Link](http://w3.changwon.ac.kr/kor/html/05_facilities/facilities_0101.php)
-
-- 출석인정신청서 [download]({% link /forms/absence_form.hwp %})
-
+<!-- ---------------------------- -->
 
 ----------------------------
 
@@ -43,10 +36,19 @@ permalink: /teaching/
 - [금속 유동 해석 특론 (Metal Plasticity)]({% link metalplasticity.md %})
 
 ----------------------------
-### 기타
 
+### 기타 교과목
 
 #### [전산재료과학 (Computational Materials Science)]({% link cmse.md %})
+
+----------------------------
+
+## 창원대학교 학사 규정집
+
+- 규정집 웹페이지 [Link](http://w3.changwon.ac.kr/kor/html/05_facilities/facilities_0101.php)
+
+- 출석인정신청서 [download]({% link /forms/absence_form.hwp %})
+
 ----------------------------
 
 ## Useful tips for Windows users.
