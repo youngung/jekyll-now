@@ -19,7 +19,7 @@ permalink: /teaching/
 
 ### 1학기
 
-- [메카트로닉스 재료개론 (Introduction to Materials Science and Engineering I)]({% link mse_intro.md %})
+- [메카트로닉스 재료개론]({% link mse_intro.md %})
 
 - [이동 현상 (Transport Phenomena)]({% link transportphenomena.md %})
 
