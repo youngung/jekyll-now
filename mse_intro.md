@@ -10,8 +10,7 @@ permalink: /mse_intro/
 
 2. Atomic Energy Structure:  [lecture notes]({% link /lecturenotes/MSE/lecture2_atomic_energy_structure.pdf %})
 
-3. Crystallography: [lecture notes]({% link /lecturenotes/MSE/lecture2_atomic_energy_structure.pdf %})
-
+3. Crystallography: [lecture notes]({% link /lecturenotes/MSE/lecture3_Crystallography.pdf %})
 
 ### 교재:
 
