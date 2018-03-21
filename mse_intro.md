@@ -12,6 +12,8 @@ permalink: /mse_intro/
 
 3. Crystallography: [lecture notes]({% link /lecturenotes/MSE/lecture3_Crystallography.pdf %})
 
+3. Crystalline Solid Structure: [lecture notes]({% link /lecturenotes/MSE/lecture4_crystalline_solid_structure.pdf %})
+
 ### 교재:
 
 ** 재료과학과 공학 **
