@@ -12,7 +12,9 @@ permalink: /mse_intro/
 
 3. Crystallography: [lecture notes]({% link /lecturenotes/MSE/lecture3_Crystallography.pdf %})
 
-3. Crystalline Solid Structure: [lecture notes]({% link /lecturenotes/MSE/lecture4_crystalline_solid_structure.pdf %})
+4. Crystalline Solid Structure: [lecture notes]({% link /lecturenotes/MSE/lecture4_crystalline_solid_structure.pdf %})
+
+5. Imperfection: [lecture notes]({% link /lecturenotes/MSE/lecture5_Imperfections.pdf %})
 
 ### 교재:
 
