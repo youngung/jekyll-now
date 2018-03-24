@@ -12,5 +12,5 @@ rsync -PaHAv --numeric-ids ~/onedrive/OneDrive\ -\ changwon.ac.kr/Lectures/2018S
 rsync -PaHAv --numeric-ids ~/onedrive/OneDrive\ -\ changwon.ac.kr/Lectures/2018Spring/MSE/*.pdf lecturenotes/MSE/
 
 
-bash update.sh
+# bash update.sh
 # git commit -am 'Lecture note updates'&&git push github master
