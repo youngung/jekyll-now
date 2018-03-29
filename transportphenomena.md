@@ -12,6 +12,10 @@ permalink: /transportphenomena/
 
 2. Momentum Transfer and Newtonian Viscosity: [lecture notes]({% link /lecturenotes/TransportPhenomena/Lecture2_MomentumTransfer_NewtonianViscosity.pdf %})
 
+3. Heat Transfer: [lecture notes]({% link /lecturenotes/TransportPhenomena/Lecture3_Heat_Transfer.pdf %})
+
+4. Heat Transfer (with general formula): [lecture notes]({% link /lecturenotes/TransportPhenomena/Lecture4_Heat_Transfer_General_Formula.pdf %})
+
 --------------------------
 
 ## 참고자료
