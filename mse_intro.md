@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 메카트로닉스 재료개
+title: 메카트로닉스 재료개론
 permalink: /mse_intro/
 ---
 

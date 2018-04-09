@@ -16,6 +16,8 @@ permalink: /transportphenomena/
 
 4. Heat Transfer (with general formula): [lecture notes]({% link /lecturenotes/TransportPhenomena/Lecture4_Heat_Transfer_General_Formula.pdf %})
 
+4. Heat Transfer (non-steady state): [lecture notes]({% link /lecturenotes/TransportPhenomena/Lecture4_Heat_Transfer_Non_SteadyState.pdf %})
+
 --------------------------
 
 ## 참고자료
