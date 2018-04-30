@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 금속성형 연구실 홈페이지입니다.
+title: 재료역학 연구실 홈페이지입니다.
 permalink: /about/
 ---
 
-## Welcome to Metal Forming Laboratory at [CWNU](http://www.changwon.ac.kr)
-창원대학교 메카트로닉스대학 금속성형 연구실입니다.
+## Welcome to Materials Mechanics Laboratory at [CWNU](http://www.changwon.ac.kr)
+창원대학교 메카트로닉스대학 재료역학 연구실입니다.
 
 ### Contacts
 [Email](mailto:yjeong@changwon.ac.kr): yjeong [at] changwon.ac.kr
