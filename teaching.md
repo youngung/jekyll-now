@@ -6,7 +6,7 @@ permalink: /teaching/
 
 
 ## 공지사항
-- [2018년 메카재료개론 중간고사 성적]({%link /dat/18-1_MSE_midterm.txt%})
+- [2018년 메카재료개론 중간고사 성적]({%link /dat/18-1_MSE_midterm_analysis.txt%})
 <img src='/dat/18-1_MSE_midterm.png'>
 <!-- - [2017년 기계재료공학 기말고사 성적]({%link /dat/score_record_2017_MSEII_analysis_final.txt%}) -->
 <!-- <img src='/dat/score_record_2017_MSEII_final.png'> -->
