@@ -32,6 +32,7 @@ xxxx6118  46.0
 xxxx5134  65.0
 xxxx5119  72.0
 xxxx5139  57.0
+xxxx5140  93.0
 
-average:  54.28
-std    :  17.27
+average:  55.45
+std    :  18.25
