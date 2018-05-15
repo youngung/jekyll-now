@@ -4,8 +4,8 @@ xxxx5104  67.0
 xxxx5095  68.0
 xxxx5141  56.0
 xxxx5109  44.0
-xxxx5093  47.0
-xxxx5089  36.0
+xxxx5093  51.0
+xxxx5089  40.0
 xxxx5138  67.0
 xxxx5295  67.0
 xxxx5297  62.0
@@ -22,11 +22,11 @@ xxxx5108  85.0
 xxxx5143  45.0
 xxxx5138  95.0
 xxxx5134  74.0
-xxxx5145  72.0
+xxxx5145  82.0
 xxxx5144  86.0
 xxxx5114  53.0
-xxxx5106  67.0
-xxxx5089  46.0
+xxxx5106  68.0
+xxxx5089  52.0
 xxxx4281  64.0
 xxxx5115  54.0
 xxxx5114  45.0
@@ -64,5 +64,5 @@ xxxx5087  43.0
 xxxx5120  36.0
 xxxx5139  36.0
 
-average:  46.63
-std    :  20.28
+average:  47.03
+std    :  20.52
