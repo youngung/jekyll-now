@@ -18,10 +18,10 @@ permalink: /projects/
 
 - 대학중점연구소, [한국연구재단](http://www.nrf.re.kr/) <img src='/images/nrf.jpg' width='100'>
 
-- 2018 ~
+- 2018부터 9년간
 
 ## 3. (제4차 소재·부품발전 기본계획) 가상공학 플랫폼 사업, 금속 분야  [(관련 보도자료)](http://www.motie.go.kr/motie/ne/presse/press2/bbs/bbsView.do?bbs_seq_n=159236&bbs_cd_n=81)
 
    - [산업통상자원부](http://www.motie.go.kr/www/main.do)
 
-- 2018 ~
+- 2018부터 4년간
