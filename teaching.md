@@ -14,6 +14,8 @@ permalink: /teaching/
 
 - [2018년 메카재료개론 기말고사 성적]({%link /dat/18-1_MSE_final_analysis.txt%})
 <img src='/dat/18-1_MSE_final.png'>
+- [2018년 이동현상 기말고사 성적]({%link /dat/18-1_transport_final_analysis.txt%})
+<img src='/dat/18-1_transport_final.png'>
 
 
 <!-- - [2018년 메카재료개론 중간고사 성적]({%link /dat/18-1_MSE_midterm_analysis.txt%})
