@@ -46,11 +46,11 @@ permalink: /teaching/
 
 ### 2학기
 
-- [소성 가공 (Metal Forming)]({% link metalforming.md %})
+- [소성 가공 MSA0026]({% link metalforming.md %})
 
-- [기계재료공학 (Introduction to Materials Science and Engineering II)]({% link mseii.md %})
+- [기계재료공학 MFA9009]({% link mseii.md %})
 
-- [금속 유동 해석 특론 (Metal Plasticity)]({% link metalplasticity.md %})
+- [금속 유동 해석 특론]({% link metalplasticity.md %})
 
 ----------------------------
 
