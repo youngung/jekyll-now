@@ -14,6 +14,8 @@ permalink: /teaching/
 
 - [2018년 메카재료개론 기말고사 성적]({%link /dat/18-1_MSE_final_analysis.txt%})
 <img src='/dat/18-1_MSE_final.png'>
+- [2018년 이동현상 기말고사 성적]({%link /dat/18-1_transport_final_analysis.txt%})
+<img src='/dat/18-1_transport_final.png'>
 
 
 <!-- - [2018년 메카재료개론 중간고사 성적]({%link /dat/18-1_MSE_midterm_analysis.txt%})
@@ -44,11 +46,11 @@ permalink: /teaching/
 
 ### 2학기
 
-- [소성 가공 (Metal Forming)]({% link metalforming.md %})
+- [소성 가공 MSA0026]({% link metalforming.md %})
 
-- [기계재료공학 (Introduction to Materials Science and Engineering II)]({% link mseii.md %})
+- [기계재료공학 MFA9009]({% link mseii.md %})
 
-- [금속 유동 해석 특론 (Metal Plasticity)]({% link metalplasticity.md %})
+- [금속 유동 해석 특론]({% link metalplasticity.md %})
 
 ----------------------------
 

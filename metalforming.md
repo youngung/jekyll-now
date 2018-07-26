@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 소성가공 (Metal Forming)
+title: 소성가공 (MSA0026)
 permalink: /metalforming/
 ---
 
