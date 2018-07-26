@@ -15,6 +15,8 @@ permalink: /usefultips/
 
 [링크](https://gist.github.com/danisfermi/17d6c0078a2fd4c6ee818c954d2de13c)
 
+## [MinGW](http://www.mingw.org)
+
 
 ## tar
 
