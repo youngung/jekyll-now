@@ -5,12 +5,12 @@ permalink: /teaching/
 ---
 
 
-## 공지사항
+<!-- ## 공지사항
 - 성적 열람 및 정정에 관하여
-성적 열람 기간은 6월 29일부터 7월 5일입니다.
-열람 기간중 공지된 성적은 최종 성적이 아닙니다.
-열람 및 정정 기간중, 본인이 아닌 다른 학생의 성적 정정으로 인해 성적이 변할 수 있습니다.
-성적 변동은 상승 뿐만 아니라, **강등**도 포함됨에 유의하세요.
+ 성적 열람 기간은 6월 29일부터 7월 5일입니다.
+ 열람 기간중 공지된 성적은 최종 성적이 아닙니다.
+ 열람 및 정정 기간중, 본인이 아닌 다른 학생의 성적 정정으로 인해 성적이 변할 수 있습니다.
+ 성적 변동은 상승 뿐만 아니라, **강등**도 포함됨에 유의하세요.
 
 - [2018년 메카재료개론 기말고사 성적]({%link /dat/18-1_MSE_final_analysis.txt%})
 <img src='/dat/18-1_MSE_final.png'>
@@ -18,16 +18,16 @@ permalink: /teaching/
 <img src='/dat/18-1_transport_final.png'>
 
 
-<!-- - [2018년 메카재료개론 중간고사 성적]({%link /dat/18-1_MSE_midterm_analysis.txt%})
-<!-- <img src='/dat/18-1_MSE_midterm.png'>
-<!-- - [2018년 이동현상 중간고사 성적]({%link /dat/18-1_transport_midterm_analysis.txt%})
-<!-- <img src='/dat/18-1_transport_midterm.png'>
+- [2018년 메카재료개론 중간고사 성적]({%link /dat/18-1_MSE_midterm_analysis.txt%})
+ <img src='/dat/18-1_MSE_midterm.png'>
+- [2018년 이동현상 중간고사 성적]({%link /dat/18-1_transport_midterm_analysis.txt%})
+ <img src='/dat/18-1_transport_midterm.png'>
 
 
-<!-- - [2017년 기계재료공학 기말고사 성적]({%link /dat/score_record_2017_MSEII_analysis_final.txt%}) -->
-<!-- <img src='/dat/score_record_2017_MSEII_final.png'> -->
-<!-- - [2017년 소성가공학 기말고사 성적]({%link /dat/score_record_2017_MF_analysis_final.txt%}) -->
-<!-- <img src='/dat/score_record_2017_MF_final.png'> -->
+- [2017년 기계재료공학 기말고사 성적]({%link /dat/score_record_2017_MSEII_analysis_final.txt%})
+ <img src='/dat/score_record_2017_MSEII_final.png'>
+- [2017년 소성가공학 기말고사 성적]({%link /dat/score_record_2017_MF_analysis_final.txt%})
+ <img src='/dat/score_record_2017_MF_final.png'> -->
 
 
 ----------------------------
@@ -49,6 +49,8 @@ permalink: /teaching/
 - [소성 가공 MSA0026]({% link metalforming.md %})
 
 - [기계재료공학 MFA9009]({% link mseii.md %})
+
+- [금속 가공학 특론]({% link crystalplasticity.md %})
 
 - [금속 유동 해석 특론]({% link metalplasticity.md %})
 
