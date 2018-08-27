@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Crystal Plasticity (금속 가공학 특론)
+title: 금속가공학특론
 permalink: /crystalplasticity/
 ---
 
 Download lecture notes from the below links:
 
-<!-- 1. [Orientation and Introduction] -->
+1. Orientation and Introduction: [lecture notes]({% link /lecturenotes/CP/01_Intro.pdf %})

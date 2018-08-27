@@ -8,6 +8,7 @@ permalink: /mseii/
 
 1. [Orientation and Introduction]({%link /lecturenotes/MechMSE/01_Intro_MechMSE.pdf %})
 
+<!--
 2. [Mechanical Properties - Part I]({%link /lecturenotes/MechMSE/02_MechPro_Part1_MechMSE.pdf %})
 
 3. [Mechanical Properties - Part II]({%link /lecturenotes/MechMSE/02_MechPro_Part2_MechMSE.pdf %})
@@ -25,3 +26,5 @@ permalink: /mseii/
 9. [Properties and applications of metals]({% link /lecturenotes/MechMSE/06_PropsAppsOfMetals.pdf %})
 
 10. [Fabrication]({% link /lecturenotes/MechMSE/07_Fabrication.pdf %})
+
+-->

@@ -42,6 +42,7 @@ Further readings and useful pages
 
 - [Strain hardening]({% link tensile.md %})
 
+<!--
 - [Euler angles]({% link euler.md %})
 
 - [Excel file for **Euler method**]({% link /libs/Euler_Method.xlsx %})
@@ -61,3 +62,5 @@ Further readings and useful pages
 - [thin-walled tube]({% link thinwalltube.md %})
 
 - [Newton-Raphson approach to solve the instability of metals under uniaxial tension]({% link nr_example.md %})
+
+-->
