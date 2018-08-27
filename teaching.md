@@ -50,9 +50,9 @@ permalink: /teaching/
 
 - [기계재료공학 MFA9009]({% link mseii.md %})
 
-- [금속 가공학 특론]({% link crystalplasticity.md %})
+- [금속가공학특론]({% link crystalplasticity.md %})
 
-- [금속 유동 해석 특론]({% link metalplasticity.md %})
+- [금속유동해석특론]({% link metalplasticity.md %})
 
 ----------------------------
 
