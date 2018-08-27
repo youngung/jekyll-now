@@ -17,11 +17,10 @@ permalink: /usefultips/
 
 ## [MinGW](http://www.mingw.org)
 
+## [GnuWin32](http://gnuwin32.sourceforge.net)
 
-## tar
-
-## editor
+## editors
 
 ## ssh-key-gen and pair
 
-## github 접속 방법
+## github/gitlab

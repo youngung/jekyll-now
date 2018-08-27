@@ -8,6 +8,7 @@ permalink: /metalforming/
 
 1. Orientation and Introduction: [lecture notes]({% link /lecturenotes/MetalForming/01_Intro_MF.pdf %})
 
+<!--
 2. Stress and Strain: [lecture notes]({% link /lecturenotes/MetalForming/02_StressStrain_MF.pdf %})
 
 3. Principal space and elasticity: [lecture notes]({% link /lecturenotes/MetalForming/03_PrincipalSpaceElasticity_MF.pdf %})
@@ -19,14 +20,14 @@ permalink: /metalforming/
 6. Instability: [lecture notes]({% link /lecturenotes/MetalForming/06_Instability_MF.pdf %})
 
 7. Strain Rate and Temperature: [lecture notes]({% link /lecturenotes/MetalForming/07_StrainRateTemperature_MF.pdf %})
-
+-->
 --------------------------
 
 ** 참고자료
 
-**Metal Forming**, William Hosford
+[**Metal Forming**, William Hosford](https://www.amazon.com/Metal-Forming-Metallurgy-William-Hosford/dp/1107670969)
 
-**Applied Mechanics of Solids**, Bower
+Link to very useful webpage of [**Applied Mechanics of Solids**, Bower](http://solidmechanics.org)
 
 --------------------------
 
