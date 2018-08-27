@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 기계재료개론 (MFA9009)
+title: 기계재료공학 (MFA9009)
 permalink: /mseii/
 ---
 
