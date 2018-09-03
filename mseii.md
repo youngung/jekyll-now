@@ -10,8 +10,9 @@ permalink: /mseii/
 
 2. [Mechanical Properties - Part I]({%link /lecturenotes/MechMSE/02_MechPro_Part1_MechMSE.pdf %})
 
-<!--
 3. [Mechanical Properties - Part II]({%link /lecturenotes/MechMSE/02_MechPro_Part2_MechMSE.pdf %})
+
+<!--
 
 4. [Dislocaton / strengthening]({% link /lecturenotes/MechMSE/03_Dislocation_Strengthening.pdf %})
 
