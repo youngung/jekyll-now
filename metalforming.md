@@ -8,19 +8,26 @@ permalink: /metalforming/
 
 1. Orientation and Introduction: [lecture notes]({% link /lecturenotes/MetalForming/01_Intro_MF.pdf %})
 
+2. Basics on Stress and Strain quantities: [lecture notes]({% link /lecturenotes/MetalForming/02_StressStrain_basics_MF.pdf %})
+
 <!--
-2. Stress and Strain: [lecture notes]({% link /lecturenotes/MetalForming/02_StressStrain_MF.pdf %})
+3. Stress tensor: [lecture notes]({% link /lecturenotes/MetalForming/03_StressTensor_MF.pdf %})
 
-3. Principal space and elasticity: [lecture notes]({% link /lecturenotes/MetalForming/03_PrincipalSpaceElasticity_MF.pdf %})
+4. Euler angles: [lecture notes]({% link /lecturenotes/MetalForming/04_EulerAngles_MF.pdf %})
 
-4. Macroscopic Plasticity and Yielding: [lecture notes]({% link /lecturenotes/MetalForming/04_MacroscopicPlasticityYielding_MF.pdf %})
+5. StrainTensor: [lecture notes]({% link /lecturenotes/MetalForming/05_StrainTensor.pdf %})
 
-5. Work Hardening: [lecture notes]({% link /lecturenotes/MetalForming/05_WorkHardening_MF.pdf %})
+6. Principal space and elasticity: [lecture notes]({% link /lecturenotes/MetalForming/06_PrincipalSpaceElasticity_MF.pdf %})
 
-6. Instability: [lecture notes]({% link /lecturenotes/MetalForming/06_Instability_MF.pdf %})
+7. Macroscopic Plasticity and Yielding: [lecture notes]({% link /lecturenotes/MetalForming/07_MacroscopicPlasticityYielding_MF.pdf %})
 
-7. Strain Rate and Temperature: [lecture notes]({% link /lecturenotes/MetalForming/07_StrainRateTemperature_MF.pdf %})
+8. Work Hardening: [lecture notes]({% link /lecturenotes/MetalForming/08_WorkHardening_MF.pdf %})
+
+9. Instability: [lecture notes]({% link /lecturenotes/MetalForming/09_Instability_MF.pdf %})
+
+10. Strain Rate and Temperature: [lecture notes]({% link /lecturenotes/MetalForming/10_StrainRateTemperature_MF.pdf %})
 -->
+
 --------------------------
 
 ** 참고자료
