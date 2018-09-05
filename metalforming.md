@@ -10,9 +10,9 @@ permalink: /metalforming/
 
 2. Basics on Stress and Strain quantities: [lecture notes]({% link /lecturenotes/MetalForming/02_StressStrain_basics_MF.pdf %})
 
-<!--
 3. Stress tensor: [lecture notes]({% link /lecturenotes/MetalForming/03_StressTensor_MF.pdf %})
 
+<!--
 4. Euler angles: [lecture notes]({% link /lecturenotes/MetalForming/04_EulerAngles_MF.pdf %})
 
 5. StrainTensor: [lecture notes]({% link /lecturenotes/MetalForming/05_StrainTensor.pdf %})
