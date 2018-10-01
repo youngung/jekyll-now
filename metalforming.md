@@ -14,9 +14,9 @@ permalink: /metalforming/
 
 4. Coordinate Transformation and Euler angles: [lecture notes]({% link /lecturenotes/MetalForming/04_EulerAngles_MF.pdf %})
 
-<!--
-
 5. StrainTensor: [lecture notes]({% link /lecturenotes/MetalForming/05_StrainTensor.pdf %})
+
+<!--
 
 6. Principal space and elasticity: [lecture notes]({% link /lecturenotes/MetalForming/06_PrincipalSpaceElasticity_MF.pdf %})
 
