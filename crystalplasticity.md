@@ -11,3 +11,11 @@ Download lecture notes from the below links:
 2. Crystal structure, orientation and anisotropy: [lecture notes]({% link /lecturenotes/CP/02_Crystallography_and_Anisotropy.pdf %})
 
 3. Orientation distribution and pole figure: [lecture notes]({% link /lecturenotes/CP/03_orientation_distribution_pole_figure.pdf %})
+
+4. Stress tensor: [lecture notes]({% link /lecturenotes/CP/04_StressTensor.pdf %})
+
+5. Strain tensor: [lecture notes]({% link /lecturenotes/CP/05_StrainTensor.pdf %})
+
+6. Strain tensor: [lecture notes]({% link /lecturenotes/CP/06_coord_trasnform.pdf %})
+
+7. Crystal platicity: [lecture notes]({% link /lecturenotes/CP/07_CP_intro.pdf %})
