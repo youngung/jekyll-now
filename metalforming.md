@@ -16,9 +16,9 @@ permalink: /metalforming/
 
 5. StrainTensor: [lecture notes]({% link /lecturenotes/MetalForming/05_StrainTensor.pdf %})
 
-<!--
-
 6. Principal space and elasticity: [lecture notes]({% link /lecturenotes/MetalForming/06_PrincipalSpaceElasticity_MF.pdf %})
+
+<!--
 
 7. Macroscopic Plasticity and Yielding: [lecture notes]({% link /lecturenotes/MetalForming/07_MacroscopicPlasticityYielding_MF.pdf %})
 
