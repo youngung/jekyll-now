@@ -14,9 +14,9 @@ permalink: /mseii/
 
 4. [Dislocation / strengthening]({% link /lecturenotes/MechMSE/03_Dislocation_Strengthening.pdf %})
 
-<!--
-
 5. [Failure]({% link /lecturenotes/MechMSE/04_Failure.pdf %})
+
+<!--
 
 6. [Phase transformation - Part I]({% link /lecturenotes/MechMSE/05_PhaseTransformation_part1.pdf %})
 

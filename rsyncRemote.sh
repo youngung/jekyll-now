@@ -14,9 +14,9 @@
 #rsync -PaHAv --numeric-ids ~/OneDrive\ -\ changwon.ac.kr/Lectures/2018Spring/MSE/*.pdf lecturenotes/MSE/
 
 ## 2018-Fall
-rsync -PaHAv --numeric-ids ~/OneDrive\ -\ changwon.ac.kr/Lectures/2018Fall/mse2/*.pdf lecturenotes/MechMSE/              ## 기계재료개론
-rsync -PaHAv --numeric-ids ~/OneDrive\ -\ changwon.ac.kr/Lectures/2018Fall/metalforming/*.pdf lecturenotes/MetalForming/ ## 소성가공
-rsync -PaHAv --numeric-ids ~/OneDrive\ -\ changwon.ac.kr/Lectures/2018Fall/cp/*.pdf lecturenotes/CP/                     ## 금속가공학특론
+rsync ~/OneDrive\ -\ changwon.ac.kr/Lectures/2018Fall/mse2/*.pdf lecturenotes/MechMSE/              ## 기계재료개론
+rsync ~/OneDrive\ -\ changwon.ac.kr/Lectures/2018Fall/metalforming/*.pdf lecturenotes/MetalForming/ ## 소성가공
+rsync ~/OneDrive\ -\ changwon.ac.kr/Lectures/2018Fall/cp/*.pdf lecturenotes/CP/                     ## 금속가공학특론
 
 
 # bash update.sh
