@@ -16,9 +16,9 @@ permalink: /mseii/
 
 5. [Failure]({% link /lecturenotes/MechMSE/04_Failure.pdf %})
 
-<!--
-
 6. [Phase transformation - Part I]({% link /lecturenotes/MechMSE/05_PhaseTransformation_part1.pdf %})
+
+<!--
 
 7. [Phase transformation - Part II]({% link /lecturenotes/MechMSE/05_PhaseTransformation_part2.pdf %})
 
