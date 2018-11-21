@@ -20,9 +20,9 @@ permalink: /metalforming/
 
 7. Macroscopic Plasticity and Yielding: [lecture notes]({% link /lecturenotes/MetalForming/07_MacroscopicPlasticityYielding_MF.pdf %})
 
-<!--
-
 8. Work Hardening: [lecture notes]({% link /lecturenotes/MetalForming/08_WorkHardening_MF.pdf %})
+
+<!--
 
 9. Instability: [lecture notes]({% link /lecturenotes/MetalForming/09_Instability_MF.pdf %})
 
