@@ -15,7 +15,10 @@ CUBIC
    2    nmodes  (# of modes to be used in the calculation)
    1   2  mode(i)    (label of the modes to be used)
 ( 1 1 0) < 1 1 1>  system
-     1    12     1     0   modesx, nsmx, iopsysx, itwtypex
+     1    12     20     1   modesx, nsmx, iopsysx, itwtypex
+ 0.000   0       0.000   0.000           twshx,isectw,thres1,thres2
+61.85257839   96.79927367  424.37785977  16.38925515  0.0000000e+00 0.0000000e+00
+1.0 1.0
    1  1  0   -1  1  1
    1  1  0    1 -1  1
   -1  1  0    1  1  1
@@ -29,7 +32,10 @@ CUBIC
    0 -1  1    1  1  1
    0 -1  1   -1  1  1
 ( 1 1 2) < 1 1 1>  system
-     2    12     1     0   modesx, nsmx, iopsysx, itwtypex
+     2    12     20     1   modesx, nsmx, iopsysx, itwtypex
+ 0.000   0       0.000   0.000           twshx,isectw,thres1,thres2
+61.85257839   96.79927367  424.37785977  16.38925515  0.0000000e+00 0.0000000e+00
+1.0 1.0
    1  1  2    1  1 -1
   -1  1  2    1 -1  1
    1 -1  2   -1  1  1
@@ -42,15 +48,3 @@ CUBIC
   -2  1  1    1  1  1
    2 -1  1    1  1 -1
    2  1 -1    1 -1  1
-CONSTITUTIVE LAW
-    0 VOCE=0, MTS=1, DD=2, CG=3
-    1 iratesens (0:rate insensitive, 1:rate sensitive)
-20.000000 GRAIN SIZE
-{110}<111>
-      20  NRSX
-61.85257839,  96.79927367, 424.37785977,  16.38925515  0.0000000e+00 0.0000000e+00
- 1.00   1.00
-{112}<111>
-      20  NRSX
-61.85257839,  96.79927367, 424.37785977,  16.38925515  0.0000000e+00 0.0000000e+00
- 1.00   1.00
