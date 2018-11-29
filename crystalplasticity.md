@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 금속가공학특론
+title: 湲덉냽媛�怨듯븰�듅濡�
 permalink: /crystalplasticity/
 ---
 
@@ -21,5 +21,7 @@ Download lecture notes from the below links:
 7. Crystal platicity: [lecture notes]({% link /lecturenotes/CP/07_CP_intro.pdf %})
 
 8. Final Term: [lecture notes]({% link /lecturenotes/CP/08_Final_term.pdf %})
-     data files:           [texture]({% link /dat/B_ST_01000.cmb %})
-     Single crystal files: [texture]({% link /dat/IF.sx %})
+
+     Texture file:        [link]({% link /dat/B_ST_01000.cmb %})
+
+     Single crystal file: [link]({% link /dat/IF.sx %})
