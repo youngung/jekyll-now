@@ -1,0 +1,56 @@
+** material info:
+CUBIC
+   1.0   1.0   1.0  90.0  90.0  90.0  unit cell axes and angles
+** Elastic stiffness (single crystal [MPa];scaled = 0.85 x interpolated)
+ 2.314e+05  1.347e+05  1.347e+05  0.000e+00  0.000e+00  0.000e+00
+ 1.347e+05  2.314e+05  1.347e+05  0.000e+00  0.000e+00  0.000e+00
+ 1.347e+05  1.347e+05  2.314e+05  0.000e+00  0.000e+00  0.000e+00
+ 0.000e+00  0.000e+00  0.000e+00  1.164e+05  0.000e+00  0.000e+00
+ 0.000e+00  0.000e+00  0.000e+00  0.000e+00  1.164e+05  0.000e+00
+ 0.000e+00  0.000e+00  0.000e+00  0.000e+00  0.000e+00  1.164e+05
+** Thermal expansion coefficients(single crystal axis):  [K^(-1)]
+  0.00e+00  0.00e+00  0.00e+00  0.00e+00  0.00e+00   0.0e+00
+** Slip and Twinning modes (system) information:
+   2    nmodesx (total # of modes listed in file)
+   2    nmodes  (# of modes to be used in the calculation)
+   1   2  mode(i)    (label of the modes to be used)
+( 1 1 0) < 1 1 1>  system
+     1    12     1     0   modesx, nsmx, iopsysx, itwtypex
+   1  1  0   -1  1  1
+   1  1  0    1 -1  1
+  -1  1  0    1  1  1
+  -1  1  0    1  1 -1
+   1  0  1   -1  1  1
+   1  0  1    1  1 -1
+  -1  0  1    1  1  1
+  -1  0  1    1 -1  1
+   0  1  1    1 -1  1
+   0  1  1    1  1 -1
+   0 -1  1    1  1  1
+   0 -1  1   -1  1  1
+( 1 1 2) < 1 1 1>  system
+     2    12     1     0   modesx, nsmx, iopsysx, itwtypex
+   1  1  2    1  1 -1
+  -1  1  2    1 -1  1
+   1 -1  2   -1  1  1
+   1  1 -2    1  1  1
+   1  2  1    1 -1  1
+  -1  2  1    1  1 -1
+   1 -2  1    1  1  1
+   1  2 -1   -1  1  1
+   2  1  1   -1  1  1
+  -2  1  1    1  1  1
+   2 -1  1    1  1 -1
+   2  1 -1    1 -1  1
+CONSTITUTIVE LAW
+    0 VOCE=0, MTS=1, DD=2, CG=3
+    1 iratesens (0:rate insensitive, 1:rate sensitive)
+20.000000 GRAIN SIZE
+{110}<111>
+      20  NRSX
+61.85257839,  96.79927367, 424.37785977,  16.38925515  0.0000000e+00 0.0000000e+00
+ 1.00   1.00
+{112}<111>
+      20  NRSX
+61.85257839,  96.79927367, 424.37785977,  16.38925515  0.0000000e+00 0.0000000e+00
+ 1.00   1.00
