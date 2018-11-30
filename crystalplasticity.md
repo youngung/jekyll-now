@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 湲덉냽媛�怨듯븰�듅濡�
+title: crystal plasticity
 permalink: /crystalplasticity/
 ---
 
