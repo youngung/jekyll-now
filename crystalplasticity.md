@@ -25,3 +25,11 @@ Download lecture notes from the below links:
      Texture file:        [link]({% link /dat/B_ST_01000.cmb %})
 
      Single crystal file: [link]({% link /dat/IF.sx %})
+
+     Pole figure 1:        [link]({% link /dat/0.pdf %})
+     Pole figure 1:        [link]({% link /dat/1.pdf %})
+     Pole figure 1:        [link]({% link /dat/2.pdf %})
+     Pole figure 1:        [link]({% link /dat/3.pdf %})
+     Pole figure 1:        [link]({% link /dat/4.pdf %})
+
+     Stress strain curve:  [link]({% link /dat/solution.png %})
