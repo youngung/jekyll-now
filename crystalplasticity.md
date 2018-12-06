@@ -26,10 +26,10 @@ Download lecture notes from the below links:
 
      Single crystal file: [link]({% link /dat/IF.sx %})
 
-     Pole figure (30):        [link]({% link /dat/0.pdf %})
-     Pole figure (90):        [link]({% link /dat/1.pdf %})
-     Pole figure (60):        [link]({% link /dat/2.pdf %})
      Pole figure (as-recieved):        [link]({% link /dat/3.pdf %})
-     Pole figure (90):        [link]({% link /dat/4.pdf %})
+     Pole figure (0):        [link]({% link /dat/4.pdf %})
+     Pole figure (30):        [link]({% link /dat/0.pdf %})
+     Pole figure (60):        [link]({% link /dat/2.pdf %})
+     Pole figure (90):        [link]({% link /dat/1.pdf %})
 
      Stress strain curve:  [link]({% link /dat/solution.png %})
