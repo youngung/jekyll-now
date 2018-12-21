@@ -19,10 +19,21 @@ Find more about me [here]({% link youngung.md %})
 
 [Google Scholar](https://scholar.google.com/citations?user=ANercDoAAAAJ&hl=en)
 
-### Undergraduates
 
-- **강재영**, 학부 4학년
-- **이찬혁**, 학부 4학년
-- **조현빈**, 학부 4학년
-- **한민우**, 학부 4학년
-<!-- - **조은지**, 학부 4학년 -->
+### Graduates
+- ** 이재성 **
+
+### Undergraduates
+- ** 권소민**, 학부 4학년
+- ** 김다빈**, 학부 4학년
+- ** 변다운**, 학부 4학년
+
+
+
+<!--
+- **강재영**, 학부 4학년 (재료 연구소)
+- **이찬혁**, 학부 4학년 (재료 연구소)
+- **조현빈**, 학부 4학년 (부경대)
+- **한민우**, 학부 4학년 (휴학)
+ - **조은지**, 학부 4학년 (휴학)
+-->
