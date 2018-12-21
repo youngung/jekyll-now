@@ -22,9 +22,9 @@ permalink: /metalforming/
 
 8. Work Hardening: [lecture notes]({% link /lecturenotes/MetalForming/08_WorkHardening_MF.pdf %})
 
-<!--
-
 9. Instability: [lecture notes]({% link /lecturenotes/MetalForming/09_Instability_MF.pdf %})
+
+<!--
 
 10. Strain Rate and Temperature: [lecture notes]({% link /lecturenotes/MetalForming/10_StrainRateTemperature_MF.pdf %})
 -->
