@@ -4,6 +4,8 @@ title: 기계재료공학 (MFA9009)
 permalink: /mseii/
 ---
 
+<!--
+
 아래에 링크에서 강의 슬라이드를 다운 받으세요.
 
 1. [Orientation and Introduction]({%link /lecturenotes/MechMSE/01_Intro_MechMSE.pdf %})
@@ -21,8 +23,6 @@ permalink: /mseii/
 7. [Phase transformation - Part II]({% link /lecturenotes/MechMSE/05_PhaseTransformation_part2.pdf %})
 
 8. [Phase transformation - Part III]({% link /lecturenotes/MechMSE/05_PhaseTransformation_part3.pdf %})
-
-<!--
 
 9. [Properties and applications of metals]({% link /lecturenotes/MechMSE/06_PropsAppsOfMetals.pdf %})
 
