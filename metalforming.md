@@ -4,6 +4,9 @@ title: 소성가공 (MSA0026)
 permalink: /metalforming/
 ---
 
+
+<!--
+
 아래에 링크에서 강의 슬라이드를 다운 받으세요.
 
 1. Orientation and Introduction: [lecture notes]({% link /lecturenotes/MetalForming/01_Intro_MF.pdf %})
@@ -24,7 +27,7 @@ permalink: /metalforming/
 
 9. Instability: [lecture notes]({% link /lecturenotes/MetalForming/09_Instability_MF.pdf %})
 
-<!--
+
 
 10. Strain Rate and Temperature: [lecture notes]({% link /lecturenotes/MetalForming/10_StrainRateTemperature_MF.pdf %})
 -->
@@ -40,6 +43,9 @@ Link to very useful webpage of [**Applied Mechanics of Solids**, Bower](http://s
 --------------------------
 
 
+<!--
+
+
 Some quest(s) for advanced students.
 
 a. Processing raw data obtained from uniaxial tension tests: click [here]({% link tensile.md %})!
@@ -50,7 +56,7 @@ Further readings and useful pages
 
 - [Strain hardening]({% link tensile.md %})
 
-<!--
+
 - [Euler angles]({% link euler.md %})
 
 - [Excel file for **Euler method**]({% link /libs/Euler_Method.xlsx %})

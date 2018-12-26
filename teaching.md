@@ -40,19 +40,19 @@ permalink: /teaching/
 
 - [메카트로닉스 재료개론]({% link mse_intro.md %})
 
-- [이동 현상 (Transport Phenomena)]({% link transportphenomena.md %})
+- [이동현상]({% link transportphenomena.md %})
 
-- 금속 유동 해석 (Plastic flow analysis)
+- 금속유동해석
 
 ----------------------------
 
 ### 2학기
 
-- [소성 가공 MSA0026]({% link metalforming.md %})
+- [소성가공 (MSA0026)]({% link metalforming.md %})
 
-- [기계재료공학 MFA9009]({% link mseii.md %})
+- [기계재료공학 (MFA9009)]({% link mseii.md %})
 
-- [금속가공학특론 AMB2004]({% link crystalplasticity.md %})
+- [금속가공학특론 (AMB2004)]({% link crystalplasticity.md %})
 
 <!-- - [금속유동해석특론]({% link metalplasticity.md %}) -->
 

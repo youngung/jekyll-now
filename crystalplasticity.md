@@ -4,6 +4,7 @@ title: crystal plasticity
 permalink: /crystalplasticity/
 ---
 
+<!--
 Download lecture notes from the below links:
 
 1. Orientation and Introduction: [lecture notes]({% link /lecturenotes/CP/01_Intro.pdf %})
@@ -33,3 +34,4 @@ Download lecture notes from the below links:
      Pole figure (90):        [link]({% link /dat/1.pdf %})
 
      Stress strain curve:  [link]({% link /dat/solution.png %})
+-->

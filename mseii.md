@@ -29,3 +29,13 @@ permalink: /mseii/
 10. [Fabrication]({% link /lecturenotes/MechMSE/07_Fabrication.pdf %})
 
 -->
+
+
+
+### 교재:
+
+**재료과학과공학**
+
+- [역서](http://book.daum.net/detail/book.do?bookid=BOK00024741373YE)
+
+- [도서관링크](http://lib.changwon.ac.kr/search/DetailView.ax?sid=1&cid=878794)

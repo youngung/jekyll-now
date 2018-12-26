@@ -26,20 +26,18 @@ permalink: /transportphenomena/
 
 -->
 
-## 참고자료
+## 주교재:
 
-### 주교재:
+**An Introduction to Transport Phenomena in Materials Science**, Links:
+- [원서](https://www.amazon.com/Introduction-Transport-Phenomena-Materials-Engineering/dp/1606503553/ref=sr_1_1?ie=UTF8&qid=1515552114&sr=8-1&keywords=An+Introduction+to+Transport+Phenomena+in+Materials+Science)
+- [역서](http://book.daum.net/detail/book.do?bookid=KOR9788945020574)
 
-- **An Introduction to Transport Phenomena in Materials Science**, Links:
- [원서](https://www.amazon.com/Introduction-Transport-Phenomena-Materials-Engineering/dp/1606503553/ref=sr_1_1?ie=UTF8&qid=1515552114&sr=8-1&keywords=An+Introduction+to+Transport+Phenomena+in+Materials+Science)
- [역서](http://book.daum.net/detail/book.do?bookid=KOR9788945020574)
+## 부교재:
 
-### 부교재:
+**Transport Phenomena**, Links:
+- [원서](http://book.daum.net/detail/book.do?bookid=KOR9788971292631)
+- [역서](http://book.daum.net/detail/book.do?bookid=ENG6100470115397)
 
-- **Transport Phenomena**, Links:
- [원서](http://book.daum.net/detail/book.do?bookid=KOR9788971292631)
- [역서](http://book.daum.net/detail/book.do?bookid=ENG6100470115397)
-
-- **Fundamentals of momentum, heat, and mass transfer**, Links:
- [원서](http://book.daum.net/detail/book.do?bookid=BOK00021710196KA)
- [역서](http://book.daum.net/detail/book.do?bookid=BOK00028678766AL)
+**Fundamentals of momentum, heat, and mass transfer**, Links:
+- [원서](http://book.daum.net/detail/book.do?bookid=BOK00021710196KA)
+- [역서](http://book.daum.net/detail/book.do?bookid=BOK00028678766AL)

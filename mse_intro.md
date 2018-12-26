@@ -4,6 +4,7 @@ title: 메카트로닉스 재료개론
 permalink: /mse_intro/
 ---
 
+<!--
 아래에 링크에서 강의 슬라이드를 다운 받으세요.
 
 1. Orientation and Introduction:  [lecture notes]({% link /lecturenotes/MSE/lecture1_intro.pdf %})
@@ -19,6 +20,7 @@ permalink: /mse_intro/
 6. Diffusion: [lecture notes]({% link /lecturenotes/MSE/lecture6_Diffusion.pdf %})
 
 7. Phase Diagrams: [lecture notes]({% link /lecturenotes/MSE/lecture7_Phase_Diagrams.pdf %})
+-->
 
 ### 교재:
 
