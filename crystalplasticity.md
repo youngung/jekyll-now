@@ -1,6 +1,6 @@
 ---
 layout: page
-title: crystal plasticity
+title: 금속가공학특론(AMB2004)
 permalink: /crystalplasticity/
 ---
 

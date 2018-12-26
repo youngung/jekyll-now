@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 이동현상 (Transport Phenomena)
+title: 이동현상(MSA0013)
 permalink: /transportphenomena/
 ---
 
