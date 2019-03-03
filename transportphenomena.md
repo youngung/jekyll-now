@@ -4,28 +4,15 @@ title: 이동현상(MSA0013)
 permalink: /transportphenomena/
 ---
 
-<!--
+
 
 아래에 링크에서 강의 슬라이드를 다운 받으세요.
 
-0. Orientation and Introduction: [lecture notes]({% link /lecturenotes/TransportPhenomena/Lecture0_Orientation.pdf %})
+[0. Orientation and Introduction]({% link /lecturenotes/TransportPhenomena/Lecture0_Orientation.pdf %})
 
-1. Fluid Statics: [lecture notes]({% link /lecturenotes/TransportPhenomena/Lecture1_FluidStatics.pdf %})
+[1. Differential Equations]({% link /lecturenotes/TransportPhenomena/Lecture1_ODE_PDE.pdf%})
 
-2. Momentum Transfer and Newtonian Viscosity: [lecture notes]({% link /lecturenotes/TransportPhenomena/Lecture2_MomentumTransfer_NewtonianViscosity.pdf %})
-
-3. Heat Transfer: [lecture notes]({% link /lecturenotes/TransportPhenomena/Lecture3_Heat_Transfer.pdf %})
-
-4. Heat Transfer (with general formula): [lecture notes]({% link /lecturenotes/TransportPhenomena/Lecture4_Heat_Transfer_General_Formula.pdf %})
-
-5. Heat Transfer (non-steady state): [lecture notes]({% link /lecturenotes/TransportPhenomena/Lecture4_Heat_Transfer_Non_SteadyState.pdf %})
-
-6. Diffusion: [lecture notes]({% link /lecturenotes/TransportPhenomena/Lecture5_Diffusion.pdf %})
-
---------------------------
-
--->
-
+--------------------------------
 ## 주교재:
 
 **An Introduction to Transport Phenomena in Materials Science**, Links:

@@ -13,11 +13,10 @@
 #rsync -PaHAv --numeric-ids ~/OneDrive\ -\ changwon.ac.kr/Lectures/2018Spring/TransportPhenomena/*.pdf lecturenotes/TransportPhenomena/
 #rsync -PaHAv --numeric-ids ~/OneDrive\ -\ changwon.ac.kr/Lectures/2018Spring/MSE/*.pdf lecturenotes/MSE/
 
-## 2018-Fall
-rsync ~/OneDrive\ -\ changwon.ac.kr/Lectures/2018Fall/mse2/*.pdf lecturenotes/MechMSE/              ## 기계재료개론
-rsync ~/OneDrive\ -\ changwon.ac.kr/Lectures/2018Fall/metalforming/*.pdf lecturenotes/MetalForming/ ## 소성가공
-rsync ~/OneDrive\ -\ changwon.ac.kr/Lectures/2018Fall/cp/*.pdf lecturenotes/CP/                     ## 금속가공학특론
-
+## 2019-Spring
+rsync ~/OneDrive\ -\ changwon.ac.kr/Lectures/2019-1/mechmse/*.pdf lecturenotes/MechMSE/              ## 기계재료개론
+rsync ~/OneDrive\ -\ changwon.ac.kr/Lectures/2019-1/transport/*.pdf lecturenotes/TransportPhenomena/ ## 소성가공
+# rsync ~/OneDrive\ -\ changwon.ac.kr/Lectures/2019-1/TheoryOfPlasticity/*.pdf lecturenotes/theoryofplasticity/                     ## 소성가공이론
 
 # bash update.sh
 # git commit -am 'Lecture note updates'&&git push github master
