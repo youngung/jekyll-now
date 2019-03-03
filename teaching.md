@@ -12,16 +12,15 @@ permalink: /teaching/
 
 - [기계재료공학(MFA9009)]({% link mseii.md %})
 
+- [소성가공이론(AMB2022)]({% link theoryofplasticity.md %})
 
+----------------------------
 
 ## 창원대학교 학사 규정집
 
 - 규정집 웹페이지 [Link](http://w3.changwon.ac.kr/kor/html/05_facilities/facilities_0101.php)
 
 - 출석인정신청서 [download]({% link /forms/absence_form.hwp %})
-
-
-
 
 
 
