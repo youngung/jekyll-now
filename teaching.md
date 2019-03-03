@@ -5,6 +5,34 @@ permalink: /teaching/
 ---
 
 
+----------------------------
+## 2019-1학기
+
+- [이동현상(MSA0013)]({% link transportphenomena.md %})
+
+- [기계재료공학(MFA9009)]({% link mseii.md %})
+
+
+
+## 창원대학교 학사 규정집
+
+- 규정집 웹페이지 [Link](http://w3.changwon.ac.kr/kor/html/05_facilities/facilities_0101.php)
+
+- 출석인정신청서 [download]({% link /forms/absence_form.hwp %})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--## 공지사항
 - 성적 열람 및 정정에 관하여
  성적 열람 기간은 12월 24일부터 12월 28일입니다.
@@ -33,19 +61,12 @@ permalink: /teaching/
  <img src='/dat/score_record_2017_MF_final.png'> -->
 
 
+
+
+
+<!--
 ----------------------------
-
-## 담당 교과목
-
-### 1학기
-
 - [메카트로닉스 재료개론]({% link mse_intro.md %})
-
-- [이동현상]({% link transportphenomena.md %})
-
-- 금속유동해석
-
-----------------------------
 
 ### 2학기
 
@@ -65,8 +86,4 @@ permalink: /teaching/
 
 ----------------------------
 
-## 창원대학교 학사 규정집
-
-- 규정집 웹페이지 [Link](http://w3.changwon.ac.kr/kor/html/05_facilities/facilities_0101.php)
-
-- 출석인정신청서 [download]({% link /forms/absence_form.hwp %})
+-->
