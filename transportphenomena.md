@@ -12,6 +12,8 @@ permalink: /transportphenomena/
 
 [1. Differential Equations]({% link /lecturenotes/TransportPhenomena/Lecture1_ODE_PDE.pdf%})
 
+[1-1. Taylor Series]({% link /lecturenotes/TransportPhenomena/Lecture1-1_Taylor_series.pdf%})
+
 --------------------------------
 ## 주교재:
 
