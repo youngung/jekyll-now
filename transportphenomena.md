@@ -10,9 +10,15 @@ permalink: /transportphenomena/
 
 [0. Orientation and Introduction]({% link /lecturenotes/TransportPhenomena/Lecture0_Orientation.pdf %})
 
-[1. Differential Equations]({% link /lecturenotes/TransportPhenomena/Lecture1_ODE_PDE.pdf%})
+[1. Differential Equations]({% link /lecturenotes/TransportPhenomena/Lecture1_ODE_PDE.pdf %})
 
-[1-1. Taylor Series]({% link /lecturenotes/TransportPhenomena/Lecture1-1_Taylor_series.pdf%})
+[1-1. Taylor Series]({% link /lecturenotes/TransportPhenomena/Lecture1-1_Taylor_series.pdf %})
+
+[2. Fluid Statics]({% link /lecturenotes/TransportPhenomena/Lecture2_FluidStatics.pdf %})
+
+[3. Momentum Transfer and Newtonian Viscosity]({% link /lecturenotes/TransportPhenomena/Lecture3_MomentumTransfer_NewtonianViscosity.pdf %})
+
+[4. Heat Transfer]({% link /lecturenotes/TransportPhenomena/Lecture4_Heat_Transfer.pdf %})
 
 --------------------------------
 ## 주교재:
