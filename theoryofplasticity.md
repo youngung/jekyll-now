@@ -18,5 +18,7 @@ permalink: /theoryofplasticity/
 
 4. [Gradient]({%link /lecturenotes/theoryofplasticity/04_Gradient.pdf %})
 
+5. [Stress Tensor]({%link /lecturenotes/theoryofplasticity/05_StressTensor.pdf %})
+
 <!--
 -->
