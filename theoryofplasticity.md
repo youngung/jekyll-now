@@ -20,5 +20,7 @@ permalink: /theoryofplasticity/
 
 5. [Stress Tensor]({%link /lecturenotes/theoryofplasticity/05_StressTensor.pdf %})
 
+6. [Strain Tensor]({%link /lecturenotes/theoryofplasticity/06_StrainTensor.pdf %})
+
 <!--
 -->
