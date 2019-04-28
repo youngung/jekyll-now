@@ -22,5 +22,7 @@ permalink: /theoryofplasticity/
 
 6. [Strain Tensor]({%link /lecturenotes/theoryofplasticity/06_StrainTensor.pdf %})
 
+7. [Coordinate transformation]({%link /lecturenotes/theoryofplasticity/07_Application_of_coordinate_transformation.pdf %})
+
 <!--
 -->
