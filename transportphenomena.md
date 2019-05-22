@@ -20,6 +20,8 @@ permalink: /transportphenomena/
 
 [4. Heat Transfer]({% link /lecturenotes/TransportPhenomena/Lecture4_Heat_Transfer.pdf %})
 
+[5. Heat Transfer (General Formula)]({% link /lecturenotes/TransportPhenomena/Lecture5_Heat_Transfer_General_Formula.pdf %})
+
 --------------------------------
 ## 주교재:
 
