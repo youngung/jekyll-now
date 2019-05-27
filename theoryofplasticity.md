@@ -24,5 +24,7 @@ permalink: /theoryofplasticity/
 
 7. [Coordinate transformation]({%link /lecturenotes/theoryofplasticity/07_Application_of_coordinate_transformation.pdf %})
 
+8. [Macro Plastic Yielding]({%link /lecturenotes/theoryofplasticity/08_MacroscopicPlasticityYielding.pdf %})
+
 <!--
 -->
