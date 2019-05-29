@@ -24,6 +24,8 @@ permalink: /transportphenomena/
 
 [6. Heat Transfer (Non-steady state)]({% link /lecturenotes/TransportPhenomena/Lecture6_Heat_Transfer_Non_SteadyState.pdf %})
 
+[7. Diffusion]({% link /lecturenotes/TransportPhenomena/Lecture7_Diffusion.pdf %})
+
 --------------------------------
 ## 주교재:
 
