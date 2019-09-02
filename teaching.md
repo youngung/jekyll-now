@@ -6,13 +6,16 @@ permalink: /teaching/
 
 
 ----------------------------
-## 2019-1학기
 
-- [이동현상(MSA0013)]({% link transportphenomena.md %})
+## 2019-2학기
 
 - [기계재료공학(MFA9009)]({% link mseii.md %})
 
-- [소성가공이론(AMB2022)]({% link theoryofplasticity.md %})
+- [소성가공(MSA0026)]({% link metalforming.md %})
+
+<!--
+ - [금속유동해석특론]({% link vpsc.md %})
+ -->
 
 ----------------------------
 
@@ -21,14 +24,6 @@ permalink: /teaching/
 - 규정집 웹페이지 [Link](http://w3.changwon.ac.kr/kor/html/05_facilities/facilities_0101.php)
 
 - 출석인정신청서 [download]({% link /forms/absence_form.hwp %})
-
-
-
-
-
-
-
-
 
 
 
