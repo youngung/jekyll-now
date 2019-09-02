@@ -5,7 +5,6 @@ permalink: /metalforming/
 ---
 
 
-<!--
 
 아래에 링크에서 강의 슬라이드를 다운 받으세요.
 
@@ -27,10 +26,8 @@ permalink: /metalforming/
 
 9. Instability: [lecture notes]({% link /lecturenotes/MetalForming/09_Instability_MF.pdf %})
 
-
-
 10. Strain Rate and Temperature: [lecture notes]({% link /lecturenotes/MetalForming/10_StrainRateTemperature_MF.pdf %})
--->
+
 
 --------------------------
 
