@@ -13,6 +13,8 @@ permalink: /teaching/
 
 - [소성가공(MSA0026)]({% link metalforming.md %})
 
+- [금속유동해석특론(AMB2039)]({% link vpsc.md %})
+
 
 ----------------------------
 
