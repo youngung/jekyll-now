@@ -7,3 +7,4 @@ permalink: /vpsc/
 Download lecture notes from the below links:
 
 * Introduction: [lecture notes]({% link /lecturenotes/vpsc/intro.pdf %})
+* Lecture note: [lecture notes]({% link /lecturenotes/vpsc/intro.pdf %})
