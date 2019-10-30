@@ -25,7 +25,8 @@ Find more about me [here]({% link youngung.md %})
 
 ### Undergraduates
 - 주무영, 학부 4학년
-
+- 박진화, 학부 4학년
+- 전보혜
 
 
 <!--
