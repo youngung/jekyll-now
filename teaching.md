@@ -7,6 +7,13 @@ permalink: /teaching/
 
 ----------------------------
 
+[2019년 기계재료개론 중간고사 성적]
+<img src='/dat/notification/2019/mse_mid.png'>
+[2019년 소성가공 중간고사 성적]
+<img src='/dat/notification/2019/mf_mid.png'>
+
+
+
 ## 2019-2학기
 
 - [기계재료공학(MFA9009)]({% link mseii.md %})
