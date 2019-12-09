@@ -26,6 +26,7 @@ If you are interested in, please [contact us](mailto:yjeong@changwon.ac.kr).
 
 -----------------------------
 
+<!--
 ### * POST-DOC (or fully funded PhD studentship) positions
 
 #### We are seeking for highly motivated and independent post-doctoral scholars (or graduate students) on a long-term project aiming at developing novel composite materials that exhibit excellent thermal (and fire) performance. Those who meet the skills and experiences as listed below are encouraged to apply. Those who seek for graduate positions studying the below-mentioned subjects are also encouraged to apply. The candidates will participate in a Korea government-funded research project.
@@ -72,3 +73,7 @@ If you are interested in, please [contact us](mailto:yjeong@changwon.ac.kr).
 +	Metal forming simulations
 +	Development skill for user material subroutine
 +	Should be fluent in English (Literature survey, reporting, presentation, and technical writing)
+
+
+
+-->
