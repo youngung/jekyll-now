@@ -19,20 +19,18 @@ Find more about me [here]({% link youngung.md %})
 
 [Google Scholar](https://scholar.google.com/citations?user=ANercDoAAAAJ&hl=en)
 
-
 ### Graduates
 - 이재성, 석사
-
-### Undergraduates
-- 주무영, 학부 4학년
-- 박진화, 학부 4학년
-- 전보혜
+- 주무영, 석사
+- 박진화, 석사
+- 전보혜, 석사
 
 
+### past members.
 <!--
 - 권소민, 학부 4학년
 - 김다빈, 학부 4학년
-- 변다운, 학부 4학년
+- 변다운, 학부 4학년 (재료 연구소, 철강)
 - 강재영, 학부 4학년 (재료 연구소, 철강)
 - 이찬혁, 학부 4학년 (재료 연구소, 타이타늄)
 - 조현빈, 학부 4학년 (부경대학교)
