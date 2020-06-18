@@ -18,5 +18,10 @@ rsync -v ~/OneDrive\ -\ changwon.ac.kr/Lectures/2019-2/mechmse/*.pdf lecturenote
 rsync -v ~/OneDrive\ -\ changwon.ac.kr/Lectures/2019-2/metalforming/*.pdf lecturenotes/MetalForming/
 rsync -v ~/OneDrive\ -\ changwon.ac.kr/Lectures/2019-2/VPSC-theory/*.pdf lecturenotes/vpsc
 
+
+rsync -v ~/OneDrive\ -\ changwon.ac.kr/Lectures/2020-1/전산소성가공이론1/*/*.pdf lecturenotes/computationalmechanics1
+
+rsync -v ~/OneDrive\ -\ changwon.ac.kr/Lectures/2020-1/전산소성가공이론2/*/*.pdf lecturenotes/computationalmechanics2
+
 # bash update.sh
 # git commit -am 'Lecture note updates'&&git push github master

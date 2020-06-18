@@ -6,7 +6,17 @@ permalink: /teaching/
 
 
 ----------------------------
+## 2020-1학기
 
+- [소성가공(MSA0026)]({% link ComputationalMechanics1.md %})
+
+
+
+
+
+
+
+<!--
 [2019년 기계재료개론 중간고사 성적]
 <img src='/dat/notification/2019/mse_mid.png'>
 [2019년 소성가공 중간고사 성적]
@@ -85,3 +95,6 @@ permalink: /teaching/
 #### [전산재료과학 (Computational Materials Science)]({% link cmse.md %})
 
 ----------------------------
+
+
+-->
