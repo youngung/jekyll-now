@@ -8,8 +8,7 @@ permalink: /teaching/
 ----------------------------
 ## 2020-1학기
 
-- [소성가공(MSA0026)]({% link ComputationalMechanics1.md %})
-
+- [소성가공이론]({% link ComputationalMechanics1.md %})
 
 
 
