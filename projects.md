@@ -4,6 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
+## 4. 연구재단 개인기초
+
+- 2020.06 - 2022.12
+
+- 이공학개인기초연구[기본], [한국연구재단](http://www.nrf.re.kr/) <img src='/images/nrf.jpg' width='100'>
+
 ## 3. (제4차 소재·부품발전 기본계획) 가상공학 플랫폼 사업, 금속 분야  [(관련 보도자료)](http://www.motie.go.kr/motie/ne/presse/press2/bbs/bbsView.do?bbs_seq_n=159236&bbs_cd_n=81)
 
    - [산업통상자원부](http://www.motie.go.kr/www/main.do)
@@ -20,6 +26,6 @@ permalink: /projects/
 
 - Multi-scale crystal plasticity framework for multiphase metals under non-linear forming scenarios)
 
-- 2017 June - 2019 June
+- 2017.06 - 2020.05
 
 - 이공학개인기초연구[기본], [한국연구재단](http://www.nrf.re.kr/) <img src='/images/nrf.jpg' width='100'>
