@@ -11,7 +11,11 @@ permalink: /teaching/
 - [소성가공이론]({% link ComputationalMechanics1.md %})
 
 
+## 2020-2학기
 
+- [기계재료공학(MFA9009)]({% link mseii.md %})
+
+- [소성가공(MSA0026)]({% link metalforming.md %})
 
 
 
@@ -23,11 +27,7 @@ permalink: /teaching/
 
 
 
-## 2019-2학기
 
-- [기계재료공학(MFA9009)]({% link mseii.md %})
-
-- [소성가공(MSA0026)]({% link metalforming.md %})
 
 - [금속유동해석특론(AMB2039)]({% link vpsc.md %})
 
